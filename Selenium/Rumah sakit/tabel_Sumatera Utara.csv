@@ -1,0 +1,216 @@
+No.,Kode RS,Nama Rumah Sakit,Jenis RS,Kelas RS,Pemilik,"sembunyi
+Total Ranjang"
+1,1219004,RSU Indrapura,RSU,Belum Ditetapkan,Pemprop,0
+2,1275935,RS Umum Royal Maternity,RSU,C,Swasta,0
+3,1275934,RS Jiwa Mahoni,RSK Jiwa,C,Swasta,2
+4,1275933,UPT RS Khusus Paru Sumatera Utara,RSK PARU,B,Pemprop,0
+5,1271033,RS Metta Medika II,RSU,D,Swasta,61
+6,1224002,RS Pratama Kabupaten Nias Utara,RSU,D PRATAMA,Pemkab,0
+7,1275932,RS Gigi dan Mulut Prima,RSK GM,C,Swasta,0
+8,1207071,RS Harapan Bunda,RSU,D,Perusahaan,49
+9,1212184,RS Jiwa Bina Karsa Tuntungan,RSK Jiwa,C,Swasta,94
+10,1273108,RS Rasyida Siantar,RSU,C,Swasta,30
+11,1207069,RS Dokter Takdir,RSU,D,Perusahaan,33
+12,1223006,RS Umum Flora,RSU,D,Perusahaan,0
+13,1212183,RS Umum Kasih Insani,RSU,C,Perusahaan,69
+14,1207068,RS Umum Hartati Medical Centre,RSU,C,Swasta,37
+15,1218029,RS Umum Melati Desa Pon,RSU,D,Swasta,42
+16,1207067,RS Umum Karya Bakti Ujung Bandar,RSU,C,Perusahaan,67
+17,1275931,RS Umum Eshmun,RSU,C,Perusahaan,101
+18,1212182,RS Umum Noor,RSU,D,Swasta,15
+19,1275930,RSU HERMINA MEDAN,RSU,C,Swasta,42
+20,1208066,RSIA Utama,RSIA,C,Swasta,43
+21,1275929,RS Ibu Dan Anak Artha Mahinrus,RSIA,C,Perusahaan,22
+22,1275928,RS Khusus Mata Prima Vision,RSK Mata,C,Perusahaan,18
+23,1213061,Rumah Sakit Umum Surya,RSU,D,Swasta,0
+24,1275924,RS Umum Gran Theresia Herna,RSU,D,Swasta,56
+25,1273107,RS Mata Siantar,RSK Mata,C,Swasta,25
+26,1275923,RS Umum Mitra Medika Amplas,RSU,C,Swasta,186
+27,1277027,RS Metta Medika,RSU,D,Perusahaan,65
+28,1211127,RS Ibu dan Anak Mina Husada,RSIA,C,Swasta,34
+29,1275922,RS Khusus Mata Provinsi Sumatera Utara,RSK Mata,B,Pemprop,25
+30,1212181,RS Umum Mitra Medika,RSU,C,Swasta,202
+31,1208065,RS Umum Radiva,RSU,D,Swasta,0
+32,1274063,RS Chevani,RSU,C,Perusahaan,130
+33,1209081,RS Umum Karya Husada,RSU,D,Swasta,53
+34,1220002,RS Umum Berkah,RSU,D,Swasta,32
+35,1208064,RS Umum Permata Hati,RSU,D,Perusahaan,33
+36,1275921,RS Khusus Bedah Setia Budi,RSK BEDAH,C,Perusahaan,15
+37,1275920,RS Ibu dan Anak Karya Jaya,RSIA,Belum Ditetapkan,Perusahaan,35
+38,1275919,RS Umum Ananda Putri Medan,RSU,D,Organisasi Sosial,0
+39,1208062,RS Umum Methodist Bintang Kasih,RSU,D,Swasta,0
+40,1208061,RS Umum Ivan Husada,RSU,D,Perorangan,0
+41,1208060,RS Umum Lina,RSU,D,Perorangan,25
+42,1274062,RS Umum Universitas Prima Indonesia,RSU,C,Organisasi Sosial,100
+43,1208059,RS Umum Bunda Mulia,RSU,D,Perorangan,31
+44,1213059,RS Umum Putri Bidadari,RSU,C,Swasta,243
+45,1273106,RS Umum Tiara Kasih Sejati,RSU,C,Perorangan,92
+46,1274061,RS Umum Natama,RSU,D,Perusahaan,28
+47,1275918,RS Khusus Ginjal Rasyida,RSK GINJAL,C,Perusahaan,17
+48,1272033,RS Umum Hadi Husada,RSU,D,Perusahaan,47
+49,1276076,RS Umum Ratu Mas,RSU,C,Perusahaan,46
+50,1276078,RS Umum AL Fuadi,RSU,C,Organisasi Sosial,101
+51,1213058,RS Umum Wampu Norita,RSU,D,Perusahaan,46
+52,1276077,RS Umum Sylvani,RSU,C,Perusahaan,99
+53,1207066,RS Umum Elpi Al Azis,RSU,C,Perusahaan,67
+54,1212180,RSU Grand Medica,RSU,C,Swasta,89
+55,1275913,RS Umum Universitas Sumatera Utara,RSU,C,Kementerian Lain,126
+56,1275914,RS Khusus Mata Mencirim Tujuh-Tujuh,RSK Mata,C,Swasta,20
+57,1275911,RS Umum Siloam Dhirga Surya,RSU,B,Perusahaan,260
+58,1275910,RS Ibu dan Anak Eva,RSIA,C,Perusahaan,0
+59,1223004,RS Umum Avicenna,RSU,C,Swasta,52
+60,1212179,RS Umum Citra Medika,RSU,C,Perusahaan,51
+61,1275909,RS Umum Madani,RSU,C,Perusahaan,127
+62,1208057,RS Umum Wira Husada,RSU,D,Swasta,75
+63,1223003,RS Umum Ayah Bunda,RSU,D,Perorangan,0
+64,1275907,RS Umum Royal Prima,RSU,B,Perusahaan,591
+65,1218026,RS Umum Pabatu,RSU,C,BUMN,82
+66,1211126,RS Umum Amanda,RSU,C,Perusahaan,84
+67,1212177,RS Umum Yoshua,RSU,C,Perusahaan,28
+68,1212176,RS Umum Joko,RSU,D,Organisasi Sosial,50
+69,1212175,RS Umum Mitra Sehat,RSU,D,Organisasi Sosial,50
+70,1212174,RS Umum Keliat,RSU,D,Organisasi Sosial,55
+71,1202029,RS Umum Armina Madina,RSU,C,Organisasi Sosial,0
+72,1275900,RS Umum Fajar,RSU,Belum Ditetapkan,Swasta,0
+73,1275899,RS Umum Tere Margareth,RSU,C,Organisasi Sosial,82
+74,1275898,RS Khusus Mata SMEC,RSK Mata,C,Perusahaan,16
+75,1275998,RS Ibu dan Anak Stella Maris,RSIA,C,Perusahaan,68
+76,1273033,RS Umum Harapan,RSU,C,Organisasi Katholik,109
+77,1274058,RS Bhayangkara Tk.III Kota Tebing Tinggi,RSU,C,POLRI,128
+78,1271032,RS Umum Metta Medika,RSU,C,Perusahaan,84
+79,1221002,RS Umum Permata Madina Sibuhuan,RSU,C,Swasta,57
+80,1208056,RS Umum Setio Husodo,RSU,D,Swasta,107
+81,1275897,RS Umum Restu Ibu,RSU,C,Perusahaan,0
+82,1207064,RS Umum Kasih Ibu,RSU,D,Perusahaan,0
+83,1275894,RS Umum Mitra Persada Medan,RSU,Belum Ditetapkan,Organisasi Sosial,0
+84,1275892,RS Umum Ridos,RSU,D,Organisasi Sosial,31
+85,1278002,RS Umum Bethesda Gunungsitoli,RSU,D,Organisasi Sosial,114
+86,1275890,RS Umum Bunda Thamrin,RSU,C,Perusahaan,253
+87,1219003,RS Umum Daerah Batu Bara,RSU,C,Pemkab,72
+88,1275889,RS Umum Murni Teguh Memorial Hospital,RSU,B,Perusahaan,313
+89,1219002,RS Umum Lasmi Kartika,RSU,D,Organisasi Sosial,34
+90,1275888,RS Umum Martha Friska Multatuli,RSU,B,Perusahaan,219
+91,1223002,RS Umum Daerah Aek Kanopan,RSU,C,Pemkab,45
+92,1275887,RS Umum Ibnu Saleh,RSU,D,Organisasi Islam,20
+93,1209077,RS Umum Daerah Tuan Rondahaim Pematang Raya,RSU,C,Pemkab,72
+94,1276075,RS Umum Bidadari,RSU,C,Perusahaan,153
+95,1275100,RS Umum Methodis Susanna Wesley,RSU,C,Organisasi Sosial,72
+96,1275999,RS Jiwa Bina Karsa Medan,RSK Jiwa,C,Organisasi Sosial,37
+97,1275997,RS Umum Bina Kasih,RSU,B,Organisasi Sosial,268
+98,1218025,RS Umum Sawit Indah Perbaungan,RSU,D,Perusahaan,26
+99,1276074,RS Umum Latersia,RSU,C,Perusahaan,100
+100,1222002,RS Umum Daerah Kota Pinang,RSU,C,Pemkab,98
+101,1212172,RS Umum Patar Asih,RSU,C,Perusahaan,102
+102,1214011,RS Umum Stella Maris,RSU,D,Organisasi Katholik,60
+103,1206063,RS Umum Nuraini,RSU,D,Perusahaan,40
+104,1212067,RS Umum Hidayah,RSU,D,Organisasi Sosial,46
+105,1276036,RS Umum Artha Medica,RSU,C,Organisasi Sosial,127
+106,1202028,RS Umum Permata Madina Panyabungan,RSU,C,Organisasi Sosial,98
+107,1275321,RS Umum Siti Hajar,RSU,C,Perusahaan,30
+108,1275061,RS Umum Delima Medan,RSU,C,Organisasi Sosial,56
+109,1213057,RS Umum Delia,RSU,C,Organisasi Sosial,163
+110,1275804,RS Ibu dan Anak Badrul Aini,RSIA,C,Perusahaan,35
+111,1275309,RS Khusus Mata Medan Baru Medical Centre,RSK Mata,C,Organisasi Sosial,15
+112,1275232,RS Khusus Bedah Accuplast,RSK BEDAH,C,Organisasi Sosial,29
+113,1218024,RS Umum Melati,RSU,C,Organisasi Sosial,148
+114,1218013,RS Umum Trianda,RSU,D,Organisasi Sosial,68
+115,1213046,RS Umum Rachmad Insani,RSU,C,Perusahaan,0
+116,1212171,RS Umum Rahmad Hidayah,RSU,C,Organisasi Sosial,84
+117,1275147,RS Umum Full Bethesda,RSU,C,Organisasi Sosial,77
+118,1211124,RS Umum Efarina Etaham,RSU,C,Swasta,195
+119,1277026,RS Umum Inanta,RSU,D,Organisasi Sosial,66
+120,1218158,RS Grandmed,RSU,B,Organisasi Sosial,270
+121,1208068,RS Seger Waras,RSU,D,Perorangan,18
+122,1223005,RS Tiga Bersaudara,RSU,D,Perorangan,50
+123,1277015,RS TNI Tk. IV 01.07.03,RSU,D,TNI AD,52
+124,1276040,RS Tk IV 01.07.02 Binjai,RSU,C,TNI AD,98
+125,1276025,RS Bangkatan PTPN II,RSU,C,BUMN,100
+126,1276014,RS Umum Daerah Dr. R. M. Djoelham Binjai,RSU,B,Pemkot,152
+127,1275996,RS Umum Sufina Azis,RSU,C,Organisasi Sosial,80
+128,1275885,RS Umum Muhammadiyah,RSU,D,Organisasi Sosial,34
+129,1275874,RS Khusus Gigi dan Mulut Univ. Sumatera Utara,RSK GM,C,Kementerian Lain,0
+130,1275852,RS Umum Columbia Asia,RSU,B,Swasta,185
+131,1275841,RS Umum Estomihi,RSU,C,Perusahaan,97
+132,1275830,RS Umum Wulan Windy,RSU,D,Perusahaan,60
+133,1275826,RS Umum Bahagia Medan,RSU,C,Organisasi Sosial,62
+134,1275794,RS Umum Haji Medan,RSU,B,Pemprop,216
+135,1275783,RS Ibu dan Anak Rosiva,RSIA,Belum Ditetapkan,Perusahaan,42
+136,1275772,RS Umum Bandung,RSU,C,Organisasi Sosial,102
+137,1275750,RS Umum Prof.Dr. Boloni,RSU,C,Organisasi Sosial,94
+138,1275735,RS Umum Sehat,RSU,Belum Ditetapkan,Organisasi Sosial,0
+139,1275724,RS Umum Sarah,RSU,D,Perusahaan,41
+140,1275702,RS Ibu dan Anak Sri Ratu,RSIA,C,Organisasi Sosial,47
+141,1275692,RS Umum Permata Bunda,RSU,B,Swasta,175
+142,1275655,RSUP H. Adam Malik,RSU,A,Kemkes,689
+143,1275633,RS Umum Martha Friska,RSU,B,Perusahaan,246
+144,1275622,RS Umum Imelda Pekerja Indonesia,RSU,B,Organisasi Sosial,266
+145,1275600,RS Umum Prima Husada Cipta Medan,RSU,C,Perusahaan,77
+146,1275590,RS Umum Bhakti,RSU,C,Organisasi Sosial,26
+147,1275516,RS Umum Mitra Medika,RSU,C,Organisasi Sosial,122
+148,1275298,RS Umum Mitra Sejati,RSU,B,Perusahaan,213
+149,1275276,RS Umum Vina Estetica,RSU,C,Organisasi Sosial,95
+150,1275265,RS Umum Sundari,RSU,C,Organisasi Sosial,135
+151,1275221,RS Jiwa Prof. Dr. Muhammad Ildrem,RSK Jiwa,A,Pemprop,450
+152,1275196,RS Umum Sari Mutiara,RSU,B,Organisasi Sosial,108
+153,1275163,RS Umum Islam Malahayati,RSU,C,Organisasi Sosial,119
+154,1275152,RS Umum Lanu Dr. Abd. Malik,RSU,D,TNI AU,17
+155,1275141,RS AL Dr. Komang Makes Belawan,RSU,C,TNI AL,46
+156,1275130,RS Umum Materna,RSU,C,Organisasi Sosial,56
+157,1275126,RS Umum Methodist,RSU,C,Organisasi Protestan,84
+158,1275094,RS Umum Advent Medan,RSU,C,Organisasi Sosial,124
+159,1275083,RS Umum Herna,RSU,B,Organisasi Sosial,179
+160,1275072,RS Umum Santa Elisabeth Medan,RSU,B,Organisasi Katholik,209
+161,1275050,RS Umum Deli,RSU,C,Organisasi Sosial,56
+162,1275046,RS Bhayangkara Medan,RSU,B,POLRI,60
+163,1275035,RS Tk. II Putri Hijau Medan,RSU,B,TNI AD,185
+164,1275013,RS Umum Daerah Dr. Pirngadi,RSU,B,Pemkot,434
+165,1274056,RS Umum Herna,RSU,C,Organisasi Sosial,74
+166,1274034,RS Umum Sri Pamela,RSU,C,BUMN,156
+167,1274012,RS Umum Daerah Dr. H. Kumpulan Pane,RSU,B,Pemkot,184
+168,1273102,RS Umum Horas Insani,RSU,C,Perusahaan,113
+169,1273092,RS Umum Mina Padi,RSU,D,Organisasi Sosial,32
+170,1273055,RS Umum Vita Insani,RSU,B,Perusahaan,237
+171,1273022,RS Tk. IV 01.07.01,RSU,C,TNI AD,149
+172,1273011,RS Umum Daerah Dr. Djasamen Saragih,RSU,B,Pemkot,157
+173,1272010,RS Umum Daerah Dr. Tengku Mansyur,RSU,C,Pemkot,112
+174,1271031,RS Bantuan Sibolga,RSU,Belum Ditetapkan,TNI AD,10
+175,1271016,RS Umum Daerah dr. F.L. Tobing Sibolga,RSU,B,Pemkot,132
+176,1216011,RS Umum Daerah Salak,RSU,C,Pemkab,89
+177,1214010,RS Umum Daerah Lukas Hilisimaetano,RSU,D,Pemkab,54
+178,1213035,RS Umum Pertamina Pangkalan Brandan,RSU,C,BUMN,115
+179,1213024,RS Umum PTP II Tg Selamat,RSU,C,BUMN,101
+180,1213013,RS Umum Daerah Tanjung Pura,RSU,C,Pemkab,113
+181,1212136,RS Umum Sinar Husni,RSU,C,Organisasi Sosial,92
+182,1218125,RS Umum Daerah Sultan Sulaiman Syariful Alamsyah,RSU,C,Pemkab,107
+183,1212093,RS Umum Sari Mutiara Lubuk Pakam,RSU,C,Organisasi Sosial,81
+184,1212045,RS Umum Sembiring Deli Tua,RSU,B,Organisasi Sosial,189
+185,1212023,RS Umum dr. Gerhard L. Tobing,RSU,C,BUMN,87
+186,1212012,RS Umum Dearah Deli Serdang,RSU,B,Pemkab,180
+187,1211092,RS Umum Ester,RSU,C,Organisasi Sosial,40
+188,1211033,RS Umum Kusta Lau Simomo,RSK KUSTA,Belum Ditetapkan,Pemprop,0
+189,1211011,RS Umum Daerah Kabanjahe,RSU,C,Pemkab,122
+190,1210010,RS Umum Daerah Sidikalang,RSU,C,Pemkab,120
+191,1209076,RS Umum Daerah Perdagangan,RSU,C,Pemkab,47
+192,1209065,RS Umum Daerah Parapat,RSU,D,Pemkab,24
+193,1209054,RS GKPS Bethesda Saribu Dolok,RSU,D,Organisasi Protestan,34
+194,1209032,RS Umum Bridgestone Sumatera Rubber Estate,RSU,Belum Ditetapkan,Swasta,0
+195,1209021,RS Umum Laras Kabupaten Simalungun,RSU,C,BUMN,97
+196,1209010,RS Umum Balimbingan PTP 4,RSU,C,BUMN,98
+197,1208053,RS Umum Sei Dadap,RSU,D,Perusahaan,53
+198,1208020,RS Umum Ibu Kartini,RSU,D,Swasta,66
+199,1208016,RS Umum Daerah H. Abdul Manan Simatupang,RSU,C,Pemkab,171
+200,1207052,RS Umum Sri Torgamba,RSU,D,BUMN,63
+201,1207015,RS Umum Daerah Rantau Prapat,RSU,B,Pemkab,76
+202,1205061,RS Umum HKBP Balige,RSU,C,Organisasi Protestan,134
+203,1205046,RS Umum Daerah Porsea,RSU,C,Pemkab,66
+204,1205035,RS Umum Daerah Dolok Sanggul,RSU,C,Pemkab,112
+205,1205024,RS Umum Daerah dr. Hadrianus Sinaga,RSU,C,Pemkab,86
+206,1205013,RS Umum Daerah Tarutung,RSU,B,Pemkab,176
+207,1204056,RS Umum Daerah Pandan,RSU,C,Pemkab,103
+208,1203055,RS Umum Daerah Sibuhuan,RSU,C,Pemkab,78
+209,1203044,RS Umum Daerah Gunung Tua,RSU,C,Pemkab,95
+210,1203033,RS Umum Daerah Tapanuli Selatan,RSU,C,Pemkab,102
+211,1203022,RS Umum Daerah Panyabungan,RSU,C,Pemkab,116
+212,1277011,RS Umum Daerah Padang Sidempuan,RSU,B,Pemkot,181
+213,1202017,RS Umum Daerah dr. Husni Thamrin,RSU,D,Pemkab,25
+214,1201016,RS Umum Daerah Gunungsitoli,RSU,C,Pemkab,234

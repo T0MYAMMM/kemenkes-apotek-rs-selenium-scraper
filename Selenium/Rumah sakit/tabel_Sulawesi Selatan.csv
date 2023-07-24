@@ -1,0 +1,61 @@
+No.,Kode,Nama Rumah Sakit,Jenis,Tipe,Alamat,Ref.
+1,7301015,RSUD K.H. Hayyung Kepulauan Selayar,RSUD,C,"Jl. KH. Abdul Kadir Kasim, Kepulauan Selayar",[10]
+2,7302016,RSUD H.A. Sulthan Daeng Radja,RSUD,B,"Jl. Serikaya No.17, Bulukumba",[11]
+,7302017,RSIA Yasira,RSIA,C,"Jl. Kusuma Bangsa No. 3, Bulukumba",[12]
+3,7303010,RSUD Prof. Dr. H. M. Anwar Makkatutu,RSUD,C,"Jl. Teratai No.20, Bantaeng",[13]
+4,7304011,RSUD Lanto Daeng Pasewang,RSUD,C,"Jl. Lingkar Kel.Empong Selatan No.8, Jeneponto",[14]
+,7305012,RSUD H. Padjonga Dg. Ngalle Takalar,RSUD,C,"Jl. H. Ince Husain Dg Parani No 1, Takalar",[15]
+,7305013,RS Maryam Citra Medika,RS,D,"Jl Poros Takalar-Makassar KM, Kel. Bajeng, Kec. Pattallassang, Takalar",[16]
+6,7306046,RSUD Syehk Yusuf Gowa,RSUD,B,"Jl. Dr Wahidin Sudirohusodo, Sungguminahasa, Gowa",[17]
+,7306057,RSU Thalia Irham,RSU,D,"Jl. Poros Limbung Km.15, Panciro, Gowa",[18]
+7,7307014,RSUD Sinjai,RSUD,C,Jl. Jend Sudirman Sinjai,[19]
+8,7308000001,RSUD Salewangang Maros,RSUD,C,"Jl. Poros Maros–Makassar KM 3, Kelurahan Adatongeng, Kecamatan Turikale, Kabupaten Maros",
+9,7308000002,RS TNI AU dr. Dody Sarjoto,RSU,C,"Jl. Poros Bandara Baru, Dusun Baddo-Baddo, Desa Baji Mangai, Kecamatan Mandai, Kabupaten Maros",
+10,7309000001,RSU Pangkep,RSU,C,Jl. St Hasanuddin 7 Pangkajene,
+11,7309000002,RS PT Semen Tonasa,RS,,Komp. PT Semen Tonasa Pangkep,
+12,7310000001,RSU Barru,RSU,D,Jl. St Hasanuddin No.49 Barru,
+13,7311000001,RS Kodim 1407/Bone,RS,4,Jl. Biru Watampone,
+14,7311000002,RSU Tenriawaru Bone,RSU,C,Jl. W Sudirohusodo Watampone,
+15,7312000001,RSU Ajapange Soppeng,RSU,C,Jl. Samudra No.4 Watansoppeng,
+16,7313000001,RSU Lamadukeleng Sengkang,RSU,C,Jl. K Chandra Kirana sengkang,
+18,7314000002,RSIA Rappang,RSIA,,Jl. Achmad Yani No.1 Rappang,
+19,7315000001,RSU Lasinrang,RSU,C,Jl. Lasinrang No.26 Pinrang,
+20,7316000001,RSU Enrekang,RSU,D,Jl. Jend Sudirman Enrekang,
+21,7317000001,RSU Palopo,RSU,C,Jl. Samiun No.2 Palopo,
+22,7317000002,RS PT Inco Soroako,RS,,Soroako Kab Luwu,
+23,7317000003,RS Kusta Kalang Kalang,RS,,Jl. Dr Ratulangi Palopo,
+24,7317000004,RSU Andi Jemma Masamba,RSU,C,Masamba Kab Luwu,
+25,7318000001,RSU Elim Rantepao,RSU,,Jl. A Yani No.68 Rantepao,
+26,7318000002,RS Fatima Makale,RS,,Jl. Nusantara No.18 Makale tator,
+27,7318000003,RS Kusta Batulelleng,RS,,Jl. Taman Pahlawan Rantepao,
+28,7318000004,RSU Lakipadada Tn Toraja,RSU,C,Jl. Pontiku mandetek Tn.Toraja,
+29,7319000005,RS Banua Mamase,RS,,Mamase Kab Polmas,
+33,7371000001,RSU Labuang Baji,RSU,B,Jl. Ratulangi No.81 Ujung Pandang,
+34,7371000002,RS Pelamonia,RS,2,Jl. Sudirman 27 Ujung Pandang,
+35,7371000003,RS Bayangkara Polda Sulsel,RS,3,Jl. Letjen Mapaodang Ujung Pandang,
+36,7371000004,RS Akademis Jaury,RS,,Jl. Bulusaraung No.57 Ujung Pandang,
+37,7371000005,RS Stella Maris,RS,,Jl. Somba Opu 273 Ujung Pandang,
+38,7371000006,RS Lanal Ujung Pandang,RS,4,Jl. somba Opu 273 Ujung Pandang,
+39,7371000007,RS Jiwa Ujung Pandang,RS,A,"Jl. Satando, Ujung Pandang",
+40,7371000008,RSB Elim Ujung Pandang,RSB,,Jl. L Pasewang No.34 Ujung Pandang,
+41,7371000009,RSB Sentosa,RSB,,,
+42,7371000010,RSb Siti Hadidjah,RSB,,disp stat,
+43,7371000011,RSB Restu Ujung Pandang,RSB,,,
+44,7371000012,RSB Siti Miriam,RSB,,,
+45,7371293,RSIA Chaterine Booth,RSIA,B,"Jl. Arief Rate No.15, Makassar",[20]
+46,7371256,RSKD-IA Siti Fatimah,RSIA,B,"Jl. Gunung Merapi No. 73, Makassar",[21]
+47,7371293,RS Islam Faisal,RS,B,"Jl. AP Pettarani, Makassar",[22]
+48,7371303,RSB Wahyu,RSB,,"Jl. Laccukang No.10, Makassar",[23]
+49,7371314,"RSUP Dr. Tadjuddin Chalid, MPH",RSUP,,"Jl. Paccerakkang No.67, Makassar",[24]
+50,7371325,RSUP Dr. Wahidin Sudirohusodo,RSUP,A,"Jl. Perintis Kemerdekaan Km.11, Makassar",[25]
+51,7371336,RS Hikmah,RS,,"Jl. Yosef Latumahina No. 1, Makassar",[26]
+52,7371340,RS Ibnu Sina Makassar,RS,B,"Jl. Urip Sumoharjo Km. 05 No. 264, Makassar",[26]
+53,7371351,RS Umum Luramay,RSU,D,"Jl. AP Pettarani Blok E19/11, Makassar",[27]
+54,7371362,RSUD Haji Makassar,RSUD,B,"Jl. Dg Ngeppe 14, Makassar",[28]
+55,7371373,RS Grestelina,RS,B,"Jl. Hertansing Raya No. 52, Makassar",[29]
+56,7372020,RS Fatima Parepare,RS,C,"Jl. Ilham No.3, Parepare",[30]
+57,7372031,RS Tk. IV Dr. Sumantri,RS,C,"Jl. Karaeng Burane 24, Parepare",[31]
+58,7372042,RS Kusta Lauleng,RS,,"Jl. P Pinrang Km 5, Parepare",[32]
+59,7372075,RSUD Andi Makkasau,RSUD,B,"Jl. Nurussamawaty, Kota Parepare",[33]
+60,7372076S,RSB Sitti Khadijah Parepare,RSB,,"Jl. Petana Rajeng No 5, Parepare",[34]
+61,7372077,RSIA Ananda Trifa,RSIA,C,"Jl. H. Agussalim No. 218, Parepare",[35]

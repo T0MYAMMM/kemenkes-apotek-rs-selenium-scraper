@@ -1,0 +1,57 @@
+1. Contoh sintaks menggunakan atribut tunggal (tipe XPath relatif):
+
+// sebuah [@href='http://www.google.com']
+//masukan[@id='nama']
+//masukan[@nama='namapengguna']
+//img[@alt='sometext']
+
+2. Contoh sintaks menggunakan banyak atribut (tipe XPath relatif):
+
+//tagname[@attribute1='nilai1'] [atribut2='nilai2']
+//a[@id='id1'] [@name='namanilai1']
+//img[@src=''] [@href='']
+
+3. Contoh sintaks pencarian menggunakan “berisi” (di sini, untuk membuat akun):
+
+//tagname[berisi(@atribut,'nilai1')]
+//masukan[berisi(@id,'')]
+//masukan[berisi(@nama,'')]
+//a[berisi(@href,'')]
+//img[berisi(@src,'')]
+//div[berisi(@id,'')]
+
+4. Contoh sintaks pencarian menggunakan “starts-with:”:
+
+//tagname[dimulai dengan(@nama-atribut,'')]
+//id[dimulai dengan(@id,'')]
+//a[dimulai dengan(@href='')]
+//img[dimulai dengan(@src='')]
+//div[mulai-dengan(@id='')]
+//input[dimulai dengan(@id='')]
+//tombol[dimulai dengan(@id,'')]
+
+5. Contoh sintaks untuk menggunakan node berikut:
+
+Xpath/mengikuti::again-ur-jalur-biasa
+//input[@id='']/mengikuti::input[1]
+//a[@href='']/mengikuti::a[1]
+//img[@src='']/mengikuti::img[1]
+
+6. Contoh sintaks untuk menggunakan simpul sebelumnya:
+
+Xpath/preceding::again-ur-regular-path
+//input[@id='']/ sebelumnya::input[1]
+//a[@href='']/ sebelumnya::a[1]
+//img[@src='']/ sebelumnya::img[1]
+
+7. Contoh sintaks untuk menggunakan tipe XPath absolut:
+
+1-/html/head/body/div/input
+
+8. Contoh sintaks untuk pencarian teks di XPath:
+
+Sintaks- tagname[teks()='teks yang terlihat di halaman']
+
+9. Contoh sintaks pencarian teks dengan 'contains':
+
+/*[berisi(teks(),'Distribusi Karyawan oleh Subunit')]

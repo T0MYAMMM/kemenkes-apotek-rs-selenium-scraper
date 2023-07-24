@@ -1,0 +1,43 @@
+No.,Kode RS,Nama Rumah Sakit,Jenis RS,Kelas RS,Pemilik,"sembunyi
+Total Ranjang"
+1,1507013,RS Umum Daerah Suryah Khairuddin,RSU,D,Pemkab,0
+2,1509031,RS Jabal Rahmah Medika,RSU,D,Swasta,49
+3,1503039,RS Langit Golden Medika,RSU,C,Swasta,44
+4,1502019,RS Merangin Medical Centre,RSU,D,Swasta,20
+5,1571164,RS Umum Rimbo Medika,RSU,D,Organisasi Sosial,17
+6,1509029,RS Ibu dan Anak Moelia,RSIA,C,Perorangan,18
+7,1571169,RS Umum Daerah H. Abdurrahman Sayoeti,RSU,D,Pemkot,14
+8,1571168,RS Mitra,RSU,C,Swasta,49
+9,1508002,RS Umum Setia Budi,RSU,D,Perusahaan,25
+10,1502018,RS Andimas,RSU,D,Swasta,20
+11,1509028,RS Umum Permata Hati,RSU,C,Perusahaan,40
+12,1571165,RS Umum Erni Medika,RSU,D,Swasta,31
+13,1502015,RS Raudhah,RSU,C,Swasta,58
+14,1509027,RS Ibu dan Anak Haji Abdul Malik,RSIA,C,Perusahaan,26
+15,1504018,RS Mitra Medika Batang Hari,RSU,C,Swasta,61
+16,1571163,RS Umum Baiturahim Jambi,RSU,C,Swasta,99
+17,1571162,RS Umum Kambang,RSU,C,Perusahaan,59
+18,1504017,RS Royal Prima,RSU,C,Perorangan,137
+19,1505028,RS Umum Daerah Sungai Gelam,RSU,D,Pemkab,46
+20,1509016,RS Sentral Medika,RSU,D,Swasta,40
+21,1571161,RS Ibu dan Anak Annisa,RSIA,C,Perusahaan,55
+22,1571159,RS Islam Arafah,RSU,C,Perusahaan,87
+23,1509024,RS Umum Bersaudara Mandiri,RSU,D,Swasta,13
+24,1571067,RS Umum Mayang Medical Centre,RSU,C,Swasta,99
+25,1505027,RS Umum Daerah Sungai Bahar,RSU,D,Pemkab,61
+26,1571158,RS Umum Daerah H. Abdul Manap,RSU,C,Pemkot,174
+27,1571147,RS Siloam Jambi,RSU,B,Swasta,86
+28,1571136,RS Jiwa Daerah Provinsi Jambi,RSK Jiwa,B,Pemprop,290
+29,1571045,RS Umum Santa Theresia,RSU,C,Swasta,86
+30,1571034,RS Bhayangkara Jambi,RSU,C,POLRI,93
+31,1571023,RS Tk. IV dr. Bratanata,RSU,C,TNI AD,194
+32,1571012,RS Umum Daerah Raden Mattaher Jambi,RSU,B,Pemprop,371
+33,1509013,RS Umum Daerah H. Hanafie,RSU,B,Pemkab,194
+34,1506011,RS Umum Daerah Nurdin Hamzah,RSU,C,Pemkab,55
+35,1507010,RS Umum Daerah KH. Daud Arif,RSU,C,Pemkab,96
+36,1505016,RS Umum Daerah Ahmad Ripin,RSU,C,Pemkab,92
+37,1504015,RS Umum Daerah Haji Abdoel Madjid Batoe,RSU,C,Pemkab,119
+38,1503036,RS Umum Daerah Prof. Dr. H. Chatib Quzwain,RSU,C,Pemkab,128
+39,1502014,RS Umum Daerah Kolonel Abundjani/Bangko,RSU,C,Pemkab,180
+40,1508013,RS Umum Daerah Sultan Thaha Saifuddin,RSU,C,Pemkab,113
+41,1501012,RS Umum Daerah Mayjen H. A. Thalib,RSU,C,Pemkab,160

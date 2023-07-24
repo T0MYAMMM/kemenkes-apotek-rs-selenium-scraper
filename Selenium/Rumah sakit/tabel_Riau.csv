@@ -1,0 +1,76 @@
+No.,Kode RS,Nama Rumah Sakit,Jenis RS,Kelas RS,Pemilik,"sembunyi
+Total Ranjang"
+1,1471399,RS Hermina Pekanbaru,RSU,C,Swasta,44
+2,1409018,RS Ibunda,RSU,D,Swasta,45
+3,1403037,RS 3M Plus,RSU,D,Swasta,32
+4,1405017,RS Type D Perawang,RSU,D,Pemkab,16
+5,1407016,RS Ibu dan Anak Harapan Medika,RSIA,C,Perorangan,25
+6,1471398,RS Daerah Madani Kota Pekanbaru,RSU,C,Pemkot,24
+7,1471396,RS Umum Aulia Hospital,RSU,C,Perusahaan,89
+8,1471397,RS Umum Prima Pekanbaru,RSU,C,Perusahaan,129
+9,1401012,RS Ibu dan Anak Milano,RSIA,C,Swasta,51
+10,1471395,RS Ibu Anak Budhi Mulia,RSIA,C,Perusahaan,27
+11,1402014,RS Ibu dan Anak Safira,RSIA,C,Perusahaan,29
+12,1471394,RS Khusus Mata SMEC Pekanbaru,RSK Mata,C,Perusahaan,20
+13,1408088,RS Umum AAD,RSU,D,Swasta,11
+14,1402013,RS Umum Kasih Ibu Rengat,RSU,D,Perusahaan,46
+15,1409016,RS Umum Regita Medika,RSU,D,Swasta,21
+16,1409014,RS Umum Cahaya,RSU,D,Swasta,37
+17,1471392,RS Umum Universitas Riau,RSU,D,Kementerian Lain,49
+18,1409013,RS Umum Indah,RSU,D,Perusahaan,68
+19,1407014,RS Umum Surya Insani,RSU,D,Perusahaan,45
+20,1407013,RS Umum Azzahra,RSU,D,Swasta,39
+21,1471391,RS Khusus Mata Pekanbaru Eye Center,RSK Mata,C,Perusahaan,24
+22,1471390,RS Umum Awal Bros Panam,RSU,C,Perusahaan,146
+23,1406046,RS Ibu Anak Norfa Husada,RSIA,C,Swasta,25
+24,1407012,RS Umum Awal Bros Ujung Batu,RSU,C,Perusahaan,63
+25,1406045,RS Ibu Anak Bunda Anisyah,RSIA,C,Perorangan,30
+26,1471389,RS JMB Pekanbaru,RSU,D,Perusahaan,32
+27,1408080,RS Umum Permata Hati,RSU,C,Perusahaan,75
+28,1471387,RS Ibu dan Anak Zainab,RSIA,C,Perusahaan,72
+29,1404027,RS Umum Amalia Medika,RSU,D,Perusahaan,49
+30,1406044,RS Ibu Anak Husada Bunda,RSIA,C,Perorangan,26
+31,1471386,RS Ibu dan Anak Annisa,RSIA,C,Perusahaan,20
+32,1471384,RS Awal Bros A. Yani,RSU,C,Perusahaan,116
+33,1408079,RS Umum Thursina,RSU,D,Swasta,39
+34,1471383,RS Umum Sansani,RSU,C,Swasta,67
+35,1404026,RS Umum Medicare Sorek,RSU,D,Swasta,58
+36,1406043,RS Umum Mesra,RSU,D,Perusahaan,29
+37,1409012,RS Umum Agung,RSU,C,Perorangan,10
+38,1403024,RS Umum Daerah Raja Musa,RSU,D,Pemkab,33
+39,1403035,RS Umum Daerah Tengku Sulung,RSU,D,Pemkab,24
+40,1410043,RS Umum Daerah Kabupaten Kepulauan Meranti,RSU,D,Pemkab,94
+41,1471079,RS Umum Syafira,RSU,C,Swasta,163
+42,1471067,RS Umum Eka Hospital Pekanbaru,RSU,B,Swasta,130
+43,1473078,RS Bhayangkara Dumai,RSU,D,POLRI,15
+44,1408067,RS Umum PT Chevron Pacific Indonesia,RSU,D,Perusahaan,9
+45,1404025,RS Umum Efarina,RSU,C,Swasta,193
+46,1471091,RS Umum Daerah Petala Bumi,RSU,C,Pemprop,61
+47,1473024,RS Pertamina Dumai,RSU,D,BUMN,28
+48,1473013,RS Umum Daerah Kota Dumai,RSU,B,Pemkot,269
+49,1471382,RS Umum Pekanbaru Medical Center,RSU,C,Swasta,88
+50,1471371,RS Umum Lancang Kuning,RSU,C,Swasta,39
+51,1471259,RS Ibu dan Anak Andini,RSIA,C,Swasta,35
+52,1471237,RS Ibu dan Anak Eria Bunda,RSIA,C,Swasta,74
+53,1471226,RS Umum Awal Bros Pekanbaru,RSU,B,Swasta,229
+54,1471215,RSU TNI-AU Lanud Roesmin Nurjadin,RSU,C,TNI AU,20
+55,1471161,RS Umum Bina Kasih,RSU,C,Perusahaan,49
+56,1471150,RS Prof. Dr. Tabrani,RSU,C,Organisasi Sosial,33
+57,1471146,RS Jiwa Tampan,RSK Jiwa,A,Pemprop,215
+58,1471135,RS Umum Islam Ibnu Sina,RSU,B,Organisasi Islam,126
+59,1471055,RS Santa Maria Pekanbaru,RSU,B,Organisasi Sosial,171
+60,1471033,RS Bhayangkara Pekan Baru Polda Riau,RSU,C,POLRI,57
+61,1471022,RS Tk IV Pekanbaru,RSU,D,TNI AD,48
+62,1471011,RS Umum Daerah Arifin Achmad,RSU,B,Pemprop,473
+63,1408055,RS Umum Mutia Sari,RSU,D,Organisasi Sosial,65
+64,1408032,RS Umum Daerah Kec.Mandau,RSU,C,Pemkab,167
+65,1409022,RS Umum Daerah Dr. R.M. Pratomo Bagansiapiapi,RSU,C,Pemkab,101
+66,1408011,RS Umum Daerah Bengkalis,RSU,B,Pemkab,116
+67,1407011,RS Umum Daerah Rokan Hulu,RSU,C,Pemkab,121
+68,1406031,RS Umum Tandun,RSU,D,BUMN,50
+69,1406016,RS Umum Daerah Bangkinang,RSU,C,Pemkab,96
+70,1405015,RS Umum Daerah Tengku Rafi'an Siak Sri Indrapura,RSU,C,Pemkab,147
+71,1404014,RS Umum Daerah Selasih Riau,RSU,C,Pemkab,131
+72,1403013,RS Umum Daerah Puri Husada Tembilahan,RSU,C,Pemkab,159
+73,1402012,RS Umum Daerah Indrasari Rengat,RSU,C,Pemkab,134
+74,1401011,RS Umum Daerah Teluk Kuantan,RSU,C,Pemkab,113

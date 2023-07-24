@@ -1,0 +1,86 @@
+No.,Kode RS,Nama Rumah Sakit,Jenis RS,Kelas RS,Pemilik,"sembunyi
+Total
+Ranjang"
+1,3401058,RS Umum Queen Latifa,RSU,D,Swasta,18
+2,3402084,RS Universitas Islam Indonesia,RSU,C,Swasta,39
+3,3402082,RS Khusus Ibu dan Anak Adinda,RSIA,C,Swasta,26
+4,3403025,RS Bethesda Wonosari,RSU,D,Organisasi Protestan,14
+5,3471380,RS Siloam Yogyakarta,RSU,C,Perusahaan,52
+6,3402081,Rumah Sakit Bedah Adelia,RSK BEDAH,C,Swasta,18
+7,3471379,RS Khusus Ibu dan Anak Rachmi,RSIA,C,Perusahaan,11
+8,3471378,RS Khusus Ibu dan Anak Fajar,RSIA,C,Swasta,15
+9,3401053,RS Umum Pura Raharja Medika,RSU,D,Swasta,38
+10,3402080,RS Khusus Ibu dan Anak Kahyangan,RSIA,C,Perusahaan,13
+11,3471377,UPT Rumah Sakit Pratama Kota Yogyakarta,RSU,D,Pemkot,46
+12,3404193,RS Umum Hermina Yogya,RSU,C,Perusahaan,45
+13,3403024,RS Umum PKU Muhammadiyah Wonosari,RSU,D,Organisasi Islam,34
+14,3404191,RS Universitas Ahmad Dahlan,RSU,D,Swasta,49
+15,3401052,RS Umum Daerah Nyi Ageng Serang,RSU,C,Pemkab,62
+16,3403023,RS Umum Panti Rahayu,RSU,C,Swasta,42
+17,3404190,RS Umum Mitra Sehat,RSU,D,Perusahaan,30
+18,3404189,RSA UGM,RSU,B,Universitas Gadjah Mada,135
+19,3402077,RS Umum Griya Mahardika Yogyakarta,RSU,C,Perusahaan,66
+20,3471121,RS Paru Respira,RSK PARU,C,Pemprop,26
+21,3404187,RS Khusus Ibu Anak Sadewa,RSIA,C,Perusahaan,42
+22,3403022,RS Umum Pelita Husada,RSU,D,Perorangan,43
+23,3404185,RS Khusus Bedah Sinduadi,RSK BEDAH,C,Perusahaan,17
+24,3401051,RS Umum Rizki Amalia,RSU,D,Swasta,39
+25,3401050,RS Umum PKU Muhammadiyah Nanggulan,RSU,D,Organisasi Sosial,34
+26,3402076,RS Khusus Bedah Ring Road Selatan,RSK BEDAH,C,Swasta,22
+27,3471374,RS Khusus Gigi dan Mulut Universitas Muhammadiyah,RSK GM,B,Swasta,3
+28,3401049,RS Umum PKU Muhammadiyah Wates,RSU,D,Organisasi Islam,0
+29,3404184,RS Umum Bhayangkara POLDA DIY,RSU,D,POLRI,44
+30,3404183,RS Umum PKU Muhammadiyah Gamping,RSU,C,Organisasi Sosial,143
+31,3404182,RS Umum Gramedika 10,RSU,D,Perusahaan,23
+32,3404181,RS Umum At-Turost Al-Islamy,RSU,D,Organisasi Islam,42
+33,3471107,RS Khusus Ibu dan Anak PKU Muhammadiyah Kotagede,RSIA,C,Organisasi Islam,31
+34,3404180,RS Ibu Anak Arvita Bunda,RSIA,C,Organisasi Sosial,23
+35,3404179,RS Umum Mitra Paramedika,RSU,D,Organisasi Sosial,48
+36,3404056,RS Jih,RSU,B,Perusahaan,213
+37,3404168,RS Umum Daerah Prambanan,RSU,C,Pemkab,89
+38,3404092,RSU Puri Husada Yogyakarta,RSU,D,Swasta,0
+39,3404081,RS Umum Condong Catur,RSU,D,Swasta,42
+40,3404045,RS Umum Queen Latifa,RSU,D,Swasta,39
+41,3402086,RS Rajawali Citra,RSU,D,Organisasi Sosial,49
+42,3402064,RS Umum Rachma Husada,RSU,D,Organisasi Sosial,62
+43,3401048,RS Umum Kharisma Paramedika,RSU,D,Swasta,43
+44,3402075,RS Umum Permata Husada,RSU,D,Organisasi Sosial,14
+45,3471373,RS Happy Land Medical Centre,RSU,D,Swasta,42
+46,3471362,RS Khusus Gigi Mulut Prof. Soedomo FKG UGM,RSK GM,A,BUMN,0
+47,3471336,RS Bethesda Lempuyangwangi,RSU,D,Organisasi Sosial,34
+48,3471325,RS Khusus Ibu dan Anak Permata Bunda,RSIA,C,Organisasi Sosial,20
+49,3471314,RSK THT Prof R Oepomo,RSK THT-KL,Belum Ditetapkan,Organisasi Sosial,0
+50,3471303,RS Khusus Ibu dan Anak 45 Prof. Dr. Ismangoen,RSIA,C,Organisasi Sosial,15
+51,3471293,RSK THT Sari Asih,RSK THT-KL,Belum Ditetapkan,Organisasi Sosial,0
+52,3471282,RS Ludira Husada Tama,RSU,D,Organisasi Sosial,32
+53,3471256,RS Khusus Ibu dan Anak Bhakti Ibu,RSIA,C,Organisasi Sosial,15
+54,3471234,RS Umum Daerah Kota Yogyakarta,RSU,B,Pemkot,137
+55,3471223,RSU Bedah Patmasuri,RSU,C,Organisasi Sosial,0
+56,3471096,RS Mata Dr. Yap,RSK Mata,B,Organisasi Sosial,49
+57,3471085,RS Khusus Jiwa Puri Nirmala,RSK Jiwa,C,Organisasi Sosial,28
+58,3471074,RSPAU Dr. Suhardi Harjolukito,RSU,B,TNI AU,204
+59,3471063,RS Bethesda Yogyakarta,RSU,B,Organisasi Sosial,351
+60,3471052,RS Umum Panti Rapih,RSU,B,Organisasi Sosial,350
+61,3471041,RS PKU Muhammadiyah Yogyakarta,RSU,B,Organisasi Islam,156
+62,3471030,RS Tk. III 04.06.03 Dr. Soetarto,RSU,C,TNI AD,70
+63,3471026,RS Islam Hidayatullah Yogyakarta,RSU,D,Organisasi Islam,83
+64,3404015,RSUP Dr. Sardjito,RSU,A,Kemkes,801
+65,3404157,RS Umum Sakina Idaman,RSU,C,Organisasi Sosial,54
+66,3404146,RS Islam Yayasan PDHI,RSU,C,Organisasi Sosial,82
+67,3404135,RS Umum Dharma,RSU,D,Organisasi Sosial,0
+68,3404124,RS Umum Panti Nugroho,RSU,D,Organisasi Sosial,41
+69,3404102,RS Umum Panti Rini,RSU,C,Organisasi Katholik,52
+70,3404070,RSK Bedah An-Nur,RSK BEDAH,C,Organisasi Sosial,32
+71,3404033,RS Umum Panti Baktiningsih,RSU,D,Organisasi Sosial,19
+72,3404022,RS Jiwa Grhasia,RSK Jiwa,A,Pemprop,205
+73,3404011,RS Umum Daerah Sleman,RSU,B,Pemkab,163
+74,3403021,RS Umum Nur Rohmah,RSU,D,Organisasi Sosial,44
+75,3403010,RS Umum Daerah Wonosari,RSU,C,Pemkab,175
+76,3402053,RS Umum Nur Hidayah,RSU,D,Organisasi Sosial,70
+77,3402042,RS Ibu Anak Ummi Khasanah,RSIA,C,Organisasi Sosial,24
+78,3402031,RSU PKU Muhammadiyah Bantul,RSU,C,Organisasi Islam,153
+79,3402020,RS Umum Santa Elisabeth,RSU,D,Organisasi Katholik,45
+80,3402016,RS Umum Daerah Panembahan Senopati,RSU,B,Pemkab,242
+81,3401037,RS Umum Rizki Amalia Medika,RSU,D,Organisasi Sosial,49
+82,3401026,RS Umum St Yusup Boro,RSU,D,Organisasi Sosial,25
+83,3401015,RS Umum Daerah Wates,RSU,B,Pemkab,194

@@ -1,0 +1,118 @@
+No.,Kode RS,Nama Rumah Sakit,Jenis RS,Kelas RS,Pemilik,"sembunyi
+Total Ranjang"
+1,3674011,RS Ibu dan Anak Dhia,RSIA,C,Swasta,24
+2,3671224,RS Sari Asih Cipondoh,RSU,C,Swasta,52
+3,3604053,RS Bhayangkara Tk. IV Biddokkes Polda Banten,RSU,C,POLRI,101
+4,3604052,RS Otika Medika,RSU,D,Perusahaan,32
+5,3674020,RS Mitra Keluarga Bintaro,RSU,C,Perusahaan,49
+6,3603193,RS Siloam Hospitals Kelapa Dua,RSU,C,Perusahaan,33
+7,3603192,RS Mitra Keluarga Gading Serpong,RSU,C,Swasta,81
+8,3673012,RSUD Kota Serang,RSU,C,Pemkot,60
+9,3601034,RSIA Permata Ibunda,RSIA,C,Swasta,35
+10,3603191,RS Umum Daerah Pakuhaji,RSU,D,Pemkab,23
+11,3673011,RS Mata Achmad Wardi BWI-DD,RSK Mata,C,Swasta,8
+12,3674019,RSIA Prima Medika,RSIA,C,Swasta,23
+13,3603190,RS Ibu dan Anak Ilanur,RSIA,C,Swasta,35
+14,3671223,RS Karang Tengah Medika,RSU,C,Swasta,80
+15,3674018,RS Pondok Indah Bintaro Jaya,RSU,B,Swasta,88
+16,3602012,RS Kartini,RSU,C,Perusahaan,92
+17,3603189,RS Ibu dan Anak Sepatan Mulia,RSIA,C,Swasta,34
+18,3671222,RS Ibu dan Anak Makiyah,RSIA,C,Swasta,22
+19,3604050,RS Ibu dan Anak Permata Serdang,RSIA,C,Perusahaan,22
+20,3603188,RS Ibu dan Anak Bunda Sejati,RSIA,C,Swasta,41
+21,3671221,RS Ibu dan Anak Pratiwi,RSIA,C,Swasta,25
+22,3673010,RS Fatimah,RSU,D,Swasta,59
+23,3671219,RS Ibu dan Anak Gebang Medika,RSIA,C,Perusahaan,21
+24,3671218,RS Ibu dan Anak PKU Muhammadiyah Cipondoh,RSIA,C,Organisasi Islam,24
+25,3671217,RS Ibu dan Anak Karunia Bunda,RSIA,C,Perusahaan,22
+26,3671216,RS Rumah Indonesia Sehat,RSU,C,Swasta,46
+27,3603186,RS Ibu dan Anak Assyifa,RSIA,C,Swasta,26
+28,3671214,RS Tiara,RSU,D,Swasta,57
+29,3603185,RS Umum Hermina Bitung,RSU,C,Swasta,69
+30,3673005,RS Umum Ibunda,RSU,D,Swasta,59
+31,3603183,RS Umum BUN,RSU,C,Swasta,42
+32,3671211,RS Aqidah,RSU,C,Swasta,45
+33,3674016,RS Insan Permata,RSU,C,Swasta,60
+34,3674015,RS Ibu dan Anak Vitalaya,RSIA,C,Swasta,25
+35,3671210,RS Permata Ibu,RSU,C,Perusahaan,64
+36,3674014,RS Hermina Serpong,RSU,C,Swasta,65
+37,3604047,RS Kurnia Serang,RSU,C,Swasta,103
+38,3674013,RS Ibu dan Anak Buah Hati Pamulang,RSIA,C,Perusahaan,46
+39,3671209,RS Sari Asih Sangiang,RSU,C,Perusahaan,123
+40,3603182,RS Medika Lestari,RSU,C,Perusahaan,103
+41,3674012,RS Bunda Dalima,RSU,C,Perusahaan,46
+42,3671208,RS Umum Daerah Kota Tangerang,RSU,C,Pemkot,153
+43,3671207,RS Dinda,RSU,C,Perusahaan,87
+44,3673004,RS Umum Daerah Banten,RSU,B,Pemprop,138
+45,3603181,RS Bethsaida,RSU,B,Perusahaan,110
+46,3603180,RS Ciputra,RSU,B,Perusahaan,87
+47,3603178,RS Ibu dan Anak Bunda Sejahtera,RSIA,C,Swasta,32
+48,3603177,RS Permata Hati,RSU,C,Perusahaan,46
+49,3603176,RSU Keluarga Kita,RSU,C,Perusahaan,64
+50,3674009,RS Aria Sentra Medika,RSU,C,Swasta,35
+51,3674008,RS Ibu dan Anak Citra Ananda,RSIA,C,Perusahaan,13
+52,3671205,RS Sari Asih Ciledug,RSU,B,Perusahaan,140
+53,3671204,RS Ariya Medika,RSU,C,Perusahaan,95
+54,3671203,RS Awal Bros Kota Tangerang,RSU,B,Perusahaan,180
+55,3673036,RS Sari Asih Serang,RSU,B,Perusahaan,156
+56,3672003,RS Ibu dan Anak Mutiara Bunda,RSIA,C,Perusahaan,0
+57,3604002,RS Hermina Ciruas,RSU,C,Perusahaan,106
+58,3673035,RS Ibu dan Anak Puri Garcia,RSIA,C,Perusahaan,23
+59,3603175,RS Umum Murni Asih,RSU,C,Swasta,105
+60,3603174,RS Bersalin Bunda Lestari,RSIA,Belum Ditetapkan,Swasta,0
+61,3603173,RS Ibu dan Anak Harapan Mulia,RSIA,C,Perusahaan,73
+62,3674007,RS Hermina Ciputat,RSU,C,Perusahaan,94
+63,3603172,RS St. Carolus Summarecon Serpong,RSU,C,Perusahaan,61
+64,3674006,RS Syarif Hidayatullah,RSU,C,Organisasi Sosial,54
+65,3674005,RS Sari Asih Ciputat,RSU,B,Perusahaan,161
+66,3674004,RS Permata Pamulang,RSU,C,Swasta,67
+67,3674171,RS Ibu dan Anak Cinta Kasih,RSIA,C,Perusahaan,38
+68,3674003,RSIA Permata Sarana Husada,RSIA,C,Swasta,22
+69,3671202,RS Ibu dan Anak Mutiara Bunda,RSIA,C,Perusahaan,38
+70,3601010,RS Umum Daerah Berkah Pandeglang,RSU,B,Pemkab,226
+71,3603201,RS Khusus THT-Bedah KL Proklamasi BSD,RSK THT-KL,C,Swasta,25
+72,3603169,Metro Hospitals Cikupa,RSU,C,Perusahaan,117
+73,3603168,RS Suci Paramita,RSU,D,Organisasi Sosial,37
+74,3603157,RS Umum Daerah Balaraja,RSU,B,Pemkab,197
+75,3674193,RS Buah Hati Ciputat,RSU,C,Perusahaan,69
+76,3671082,RS Islam Sari Asih Ar-rahmah,RSU,C,Organisasi Islam,54
+77,3603146,RS Ibu dan Anak Tiara,RSIA,C,Perusahaan,37
+78,3603047,RS Selaras,RSU,C,Perusahaan,47
+79,3671179,RS Mitra Husada,RSU,D,Perusahaan,67
+80,3671136,RS Umum Hermina Tangerang,RSU,C,Swasta,127
+81,3602045,RS Umum Daerah Malingping,RSU,C,Pemprop,55
+82,3674168,RS Umum Daerah Kota Tangerang Selatan,RSU,C,Pemkot,122
+83,3674157,RS Medika BSD,RSU,B,Swasta,105
+84,3672034,RS Kurnia,RSU,C,Swasta,100
+85,3672022,RS Umum Daerah Kota Cilegon,RSU,B,Pemkot,227
+86,3672011,RS Krakatau Medika,RSU,B,BUMN,256
+87,3671146,RS Umum Bhakti Asih,RSU,C,Swasta,96
+88,3671135,RS Mulya,RSU,C,Swasta,65
+89,3671124,RS Melati,RSU,C,Swasta,94
+90,3674113,RS Eka,RSU,B,Swasta,175
+91,3671091,RS Ibu dan Anak Keluarga Ibu,RSIA,C,Organisasi Sosial,0
+92,3671080,RS Mayapada,RSU,B,Swasta,143
+93,3671076,RS An-Nisa,RSU,C,Swasta,156
+94,3671065,RS EMC Tangerang,RSU,B,Swasta,114
+95,3671054,RS Siloam Hospitals Lippo Village,RSU,B,Swasta,482
+96,3671043,RS Sari Asih Karawaci,RSU,B,Swasta,125
+97,3671032,RSUP Dr. Sitanala Tangerang,RSU,C,Kemkes,148
+98,3671021,RS Daan Mogot,RSU,C,TNI AD,73
+99,3603010,RS Umum Daerah Kabupaten Tangerang,RSU,B,Pemkab,363
+100,3604046,RS Bedah Benggala,RSK BEDAH,Belum Ditetapkan,Swasta,1
+101,3604035,RS Budiasih,RSU,C,Swasta,75
+102,3604024,RS Tk.IV Kencana Serang,RSU,C,TNI AD,102
+103,3604013,RS Umum Daerah dr. Drajat Prawiranegara,RSU,B,Pemkab,363
+104,3671126,RS Umum Aminah,RSU,C,Swasta,69
+105,3603115,RS Omni,RSU,B,Swasta,135
+106,3603104,RS Ibu dan Anak Selaras,RSIA,C,Swasta,41
+107,3603093,RS Ibu dan Anak Putra Dalima,RSIA,C,Swasta,21
+108,3603082,RS Ichsan Medical Center,RSU,C,Swasta,50
+109,3674071,RS Khusus Jiwa Dharma Graha,RSK Jiwa,C,Organisasi Sosial,50
+110,3603060,RS Bhineka Bakti Husada,RSU,C,Swasta,75
+111,3674056,RS Islam Asshobirin,RSU,C,Organisasi Sosial,47
+112,3603034,RS Ibu dan Anak Lestari,RSIA,Belum Ditetapkan,Swasta,0
+113,3603023,RS Q a d r,RSU,C,Organisasi Sosial,115
+114,3602022,RS Misi Lebak,RSU,D,Organisasi Katholik,131
+115,3602011,RS Umum Daerah Dr. Adjidarmo,RSU,B,Pemkab,299
+116,3674102,RS Premier Bintaro,RSU,B,Swasta,179

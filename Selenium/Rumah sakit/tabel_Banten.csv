@@ -1,0 +1,72 @@
+No.,Kode RS,Rumah Sakit,Tipe RS,Kelas RS,Pemilik,"sembunyi
+Jumlah
+tempat tidur"
+1,5104039,RS Umum Payangan,RSU,C,Pemkab,0
+2,5108080,RS Balimed Buleleng,RSU,C,Perusahaan,62
+3,5171221,RS Khusus Mata Ramata,RSK Mata,C,Perusahaan,10
+4,5102051,RS Ibu dan Anak Cahaya Bunda,RSIA,C,Swasta,12
+5,5103040,RS Universitas Udayana,RSU,C,Kementerian Lain,78
+6,5107018,RS Pratama Kubu,RSU,D PRATAMA,Pemkab,35
+7,5105016,RSU Daerah Gema Santi Nusa Penida,RSU,D,Pemkab,43
+8,5103038,RS Bali Jimbaran,RSU,C,Perusahaan,55
+9,5171220,RS Umum Daerah Bali Mandara Provinsi Bali,RSU,B,Pemprop,180
+10,5108077,RS Umum Daerah Tangguwisia,RSU,D,Pemkab,45
+11,5102049,RS Umum Semara Ratih,RSU,C,Perusahaan,50
+12,5102048,RS Umum Bali Holistik,RSU,D,Swasta,30
+13,5101055,RS Umum Balimed Negara,RSU,C,Swasta,64
+14,5102047,RS Wings Nyitdah,RSU,C,Pemkab,66
+15,5104037,RS Umum Kasih Ibu Saba,RSU,C,Perusahaan,44
+16,5171219,RS Khusus Ibu dan Anak Pucuk Permata Hati,RSIA,C,Swasta,33
+17,5108079,RS Pratama Giri Emas,RSU,D,Pemkab,0
+18,5107017,RS Umum Balimed Karangasem,RSU,D,Swasta,56
+19,5103036,RS Umum Surya Husadha Nusa Dua,RSU,C,Perusahaan,62
+20,5104036,RS Umum Famili Husada,RSU,C,Perorangan,51
+21,5102046,RS Umum Kasih Ibu Tabanan,RSU,C,Perusahaan,63
+22,5103035,RS Umum Siloam Bali,RSU,B,Swasta,111
+23,5103034,RS Khusus Bedah BIMC Nusa Dua,RSK BEDAH,B,Swasta,35
+24,5106026,RS Umum Bangli Medika Canti,RSU,C,Perusahaan,70
+25,5104035,RS Umum Ari Canti,RSU,C,Perusahaan,106
+26,5171217,RS Umum Surya Husada Ubung,RSU,C,Organisasi Sosial,38
+27,5103033,RS Umum Kasih Ibu Kedonganan,RSU,C,Organisasi Sosial,31
+28,5102044,RS Umum Wisma Prashanti,RSU,C,Swasta,53
+29,5171216,RS Bhayangkara Denpasar,RSU,C,POLRI,81
+30,5101054,RS Umum Bunda,RSU,C,Swasta,55
+31,5105015,RS Umum Bintang,RSU,C,Swasta,70
+32,5105014,RS Umum Permata Hati,RSU,C,Swasta,54
+33,5104034,RS Umum Ganesha,RSU,C,Perorangan,93
+34,5171097,RS Umum Bali Royal,RSU,C,Perusahaan,100
+35,5108075,RS Umum Shanti Graha,RSU,D,Swasta,45
+36,5108064,RS Umum Parama Sidhi,RSU,C,Swasta,67
+37,5103032,RS Daerah Mangusada,RSU,B,Pemkab,212
+38,5102043,RS Umum Bhakti Rahayu Tabanan,RSU,D,Swasta,50
+39,5104023,RS Umum Premagana,RSU,C,Swasta,51
+40,5171215,RS Ibu dan Anak Puri Bunda,RSIA,C,Swasta,121
+41,5171203,RS Umum Balimed,RSU,C,Swasta,100
+42,5171192,RS Umum Prima Medika,RSU,C,Swasta,147
+43,5171181,RS Gigi dan Mulut Saraswati Denpasar,RSK GM,B,Organisasi Sosial,2
+44,5171170,RS Umum Graha Asih,RSU,D,Organisasi Sosial,22
+45,5171166,RS Ibu dan Anak Harapan Bunda,RSIA,C,Perusahaan,17
+46,5171155,RS Umum Bhakti Rahayu,RSU,D,Organisasi Sosial,62
+47,5171133,RS Umum Puri Raharja,RSU,C,Organisasi Sosial,90
+48,5171122,RS Umum Dharma Yadnya,RSU,C,Organisasi Hindu,58
+49,5171111,RS Umum Kasih Ibu,RSU,C,Organisasi Sosial,68
+50,5171086,RS Umum Surya Husadha,RSU,C,Organisasi Sosial,118
+51,5171064,RS Khusus Mata Bali Mandara,RSK Mata,A,Pemprop,33
+52,5171053,RS Umum Manuaba,RSU,C,Organisasi Sosial,24
+53,5171031,RS TK. II Udayana,RSU,C,TNI AD,124
+54,5171020,RS Umum Daerah Wangaya,RSU,B,Pemkot,176
+55,5171016,RSUP Sanglah,RSU,A,Kemkes,602
+56,5108042,RS Umum Karya Dharma Husada,RSU,D,Organisasi Sosial,55
+57,5108031,RS Umum Kertha Usadha,RSU,C,Organisasi Hindu,89
+58,5108020,RS TK. IV Singaraja,RSU,D,TNI AD,53
+59,5108016,RS Umum Daerah Kab. Buleleng,RSU,B,Pemkab,274
+60,5107015,RS Umum Daerah Karangasem,RSU,C,Pemkab,172
+61,5106025,RS Jiwa Provinsi Bali,RSK Jiwa,A,Pemprop,400
+62,5106014,RS Umum Daerah Kabupaten Bangli,RSU,B,Pemkab,147
+63,5105013,RS Umum Daerah Klungkung,RSU,B,Pemkab,105
+64,5104012,RS Umum Daerah Sanjiwani Gianyar,RSU,B,Pemkab,126
+65,5103021,RS Khusus Bedah BIMC,RSK BEDAH,C,Swasta,22
+66,5102021,RS Umum Dharma Kerti,RSU,C,Organisasi Hindu,30
+67,5102010,RS Umum Daerah Tabanan,RSU,B,Pemkab,186
+68,5101053,RS Umum Kertayasa,RSU,D,Swasta,27
+69,5101016,RS Umum Daerah Negara,RSU,C,Pemkab,130

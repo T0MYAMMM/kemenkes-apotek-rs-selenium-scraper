@@ -1,0 +1,53 @@
+No.,Kode RS,Nama Rumah Sakit,Jenis RS,Kelas RS,Pemilik,Total Ranjang
+1,6107026,RS Pratama Serawai,RSU,D PRATAMA,Pemkab,46
+2,6101137,RS Pratama Teluk Keramat Kabupaten Sambas,RSU,D PRATAMA,Pemkab,0
+3,6105031,RS Umum Daerah Temenggung Gergaji Balai Karangan,RSU,D,Pemkab,45
+4,6108014,RS Umum Daerah Semitau,RSU,D,Pemkab,0
+5,6111002,RS Umum Daerah Sultan Muhammad Jamaludin I,RSU,D,Pemkab,0
+6,6107025,RS Umum Assyifa Sintang,RSU,D,Perusahaan,40
+7,6107024,RSIA Bujang Dara Sintang,RSIA,C,Perusahaan,22
+8,6105028,RS Umum Sentra Medika Sanggau,RSU,D,Perusahaan,35
+9,6172002,RS Ibu dan Anak Wempe Singkawang,RSIA,C,Swasta,24
+10,6106021,RSIA Permata Bunda,RSIA,C,Perusahaan,33
+11,6110015,RS Umum Kasih Bunda Jaya Nanga Pinoh,RSU,D,Perusahaan,36
+12,6110013,RS Umum Citra Husada Nanga Pinoh,RSU,D,Perusahaan,55
+13,6171141,RS Mitra Medika Pontianak,RSU,C,Perusahaan,103
+14,6171140,RS Umum Kharitas Bhakti,RSU,D,Swasta,59
+15,6171139,RS Universitas Tanjungpura,RSU,C,Kementerian Lain,66
+16,6107022,RS Tk. IV 12.07.02 Sintang,RSU,D,TNI AD,35
+17,6171138,RS Umum Daerah Sultan Syarif Mohammad Alkadri,RSU,C,Pemkot,115
+18,6105027,RS Bergerak Balai Karangan,RSU,Belum Ditetapkan,Pemkab,10
+19,6108012,RS Bergerak Badau Kapuas Hulu,RSU,D PRATAMA,Pemkab,0
+20,6112002,RS Ibu dan Anak Anugrah,RSIA,C,Perorangan,37
+21,6171136,RS Bersalin Nabasa Pontianak,RSIA,C,Swasta,29
+22,6171085,RS Bersalin Jeumpa Pontianak,RSIA,C,Perusahaan,20
+23,6171078,RS Pro Medika Pontianak,RSU,D,Swasta,54
+24,6171067,RS Anton Soedjarwo Pontianak,RSU,C,POLRI,59
+25,6112135,RS Angkatan Udara dr. Mohammad Sutomo,RSU,C,TNI AU,32
+26,6171124,RS Anugerah Bunda Khatulistiwa,RSU,C,Swasta,81
+27,6171113,RS Islam Yarsi Pontianak,RSU,C,Organisasi Islam,93
+28,6171044,RS Jiwa Daerah Sei Bangkong Pontianak,RSK Jiwa,B,Pemprop,123
+29,6171033,RS Umum St. Antonius Pontianak,RSU,B,Organisasi Sosial,239
+30,6171022,RS Tk.II Kartika Husada Kes.Dam XII Tanjungpura,RSU,C,TNI AD,137
+31,6171011,RS Umum Daerah Dr. Soedarso Pontianak,RSU,B,Pemprop,341
+32,6110012,RS Umum Daerah Kabupaten Melawi,RSU,C,Pemkab,73
+33,6109012,RS Umum Daerah Kabupaten Sekadau,RSU,C,Pemkab,110
+34,6108011,RS Umum Daerah dr. A. Diponegoro Putussibau,RSU,C,Pemkab,104
+35,6107010,RS Umum Daerah Ade Muhammad Djoen Sintang,RSU,C,Pemkab,124
+36,6106020,RS Fatima Ketapang,RSU,C,Organisasi Katholik,156
+37,6106016,RS Umum Daerah Dr. Agoesdjam Ketapang,RSU,C,Pemkab,177
+38,6105026,RS Parindu,RSU,C,Perusahaan,90
+39,6105015,RS Umum Daerah M. Th. Djaman Sanggau,RSU,C,Pemkab,91
+40,6104014,RS Umum Daerah Dr. Rubini Mempawah,RSU,C,Pemkab,132
+41,6103013,RS Umum Daerah Kabupaten Landak,RSU,C,Pemkab,104
+42,6102012,RS Umum Daerah Bengkayang,RSU,C,Pemkab,108
+43,6101135,RS Santa Elizabeth,RSU,D,Organisasi Katholik,37
+44,6172124,RS Umum Harapan Bersama Singkawang,RSU,C,Perusahaan,153
+45,6172113,RS Umum Santo Vincentius Singkawang,RSU,C,Organisasi Katholik,143
+46,6172070,RS Kusta Alverno Singkawang,RSK KUSTA,C,Organisasi Sosial,44
+47,6172066,RS Jiwa Provinsi Kalimantan Barat,RSK Jiwa,B,Pemprop,534
+48,6102055,RS Umum Bethesda Serukam,RSU,C,Organisasi Protestan,73
+49,6172044,RS Tk. IV 12.07.01 Singkawang,RSU,D,TNI AD,66
+50,6101033,RS Umum Daerah Pemangkat,RSU,C,Pemkab,127
+51,6101022,RS Umum Daerah Sambas,RSU,C,Pemkab,108
+52,6172011,RS Umum Daerah Dr. Abdul Aziz Singkawang,RSU,B,Pemkot,255

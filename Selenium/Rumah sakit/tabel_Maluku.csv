@@ -1,0 +1,31 @@
+No.,Kode RS,Nama Rumah Sakit,Jenis RS,Kelas RS,Pemilik,Total Ranjang
+1,8171123,RS Umum Pusat Dr. J. Leimena,RSU,B,Kemkes,0
+2,8107024,RS Umum Goran Riun,RSU,D PRATAMA,Pemkab,0
+3,8101064,RS Umum Daerah dr. D. Anatototi,RSU,D,Pemkab,0
+4,8172002,RS Umum Daerah Maren Kota Tual,RSU,D,Pemkot,55
+5,8108002,RS Umum Daerah Tiakur,RSU,D,Pemkab,30
+6,8103002,RS Umum Daerah Banda,RSU,D,Pemkab,43
+7,8106010,RS Umum Piru,RSU,C,Pemkab,60
+8,8171121,RS Bhayangkara Ambon,RSU,D,POLRI,93
+9,8109018,RS Umum Daerah Namrole,RSU,D,Pemkab,60
+10,8101063,RS Umum Daerah Dr. P. P. Magretti Saumlaki,RSU,D,Pemkab,61
+11,8171110,RS Al Fatah,RSU,C,Organisasi Islam,71
+12,8171096,RS Umum Bakti Rahayu,RSU,D,Organisasi Sosial,44
+13,8171085,RS Sumber Hidup GPM,RSU,C,Organisasi Protestan,54
+14,8171074,RS Hative,RSU,D,Organisasi Sosial,54
+15,8171063,RSKD Provinsi Maluku,RSK Jiwa,B,Pemprop,110
+16,8171052,RS Lanu Patimura,RSU,Belum Ditetapkan,TNI AU,0
+17,8171030,RS AL Ambon,RSU,D,TNI AL,50
+18,8171026,RS Tk. II Prof. dr. J. A. Latumeten,RSU,B,TNI AD,127
+19,8171015,RS Umum Dr. M. Haulussy Ambon,RSU,B,Pemprop,346
+20,8107021,RS Umum Daerah Bula,RSU,C,Pemkab,132
+21,8105019,RS Umum Daerah Cendrawasih Dobo,RSU,D,Pemkab,74
+22,8103053,RS Umum Daerah dr. Ishak Umarella,RSU,C,Pemprop,108
+23,8103042,RS Umum Masohi,RSU,C,Pemkab,101
+24,8103020,RSUD Kab. Buru,RSU,D,Pemkab,50
+25,8103016,RS Umum Saparua,RSU,D,Pemkab,65
+26,8101052,RS Bergerak Kab. Maluku Tenggara Barat,RSU,D,Pemkab,0
+27,8101041,RS Fatima Saumlaki,RSU,D,Organisasi Katholik,0
+28,8101030,RS St. Yusuph Elat,RSU,D,Organisasi Protestan,0
+29,8101026,RS Hati Kudus Langgur,RSU,D,Organisasi Katholik,90
+30,8101015,RS Umum Karel Sadsuitubun,RSU,C,Pemkab,146

@@ -1,0 +1,46 @@
+No.,Kode RS,Nama Rumah Sakit,Jenis RS,Kelas RS,Pemilik,"Total
+Ranjang"
+1,9235002,RS Umum Daerah Kabupaten Intan Jaya,RSU,D,Pemkab,30
+2,9234003,RSUD Pratama Dogiyai,RSU,D PRATAMA,Pemkab,25
+3,9213038,RS Bergerak Kab.Boven Digoel,RSU,Belum Ditetapkan,Pemkab,22
+4,9271079,RS Provita Jayapura,RSU,C,Perorangan,84
+5,9226002,RS Umum Daerah Rumah Rodo Fabo,RSU,D PRATAMA,Pemkab,14
+6,9231002,RSUD Lukas Enembe Kabupaten Memberamo Tengah,RSU,D PRATAMA,Pemkab,30
+7,9229002,RS Pratama Elvrida Sara,RSU,D,Pemkab,2
+8,9236003,RS Umum Daerah Pratama Waghete,RSU,D,Pemkab,10
+9,9218002,RS Umum Daerah Karubaga,RSU,D PRATAMA,Pemkab,21
+10,9219044,RS Hendrik Fintay Kabupaten Sarmi,RSU,Belum Ditetapkan,Pemkab,25
+11,9212013,RS Kasih Herlina,RSU,D,Swasta,48
+12,9201035,RS TNI Angkatan Laut Merauke,RSU,D,TNI AL,46
+13,9212012,RS Waa Banti,RSU,D,Perusahaan,0
+14,9228002,Rumah Sakit Umum Daerah Kawera,RSU,D PRATAMA,Pemkab,29
+15,9203016,RS TNI Angkatan Darat Marthen Indey Jayapura,RSU,C,TNI AD,129
+16,9203015,RS TNI Angkatan Laut dr. Soedibjo Sardadi,RSU,C,TNI AL,81
+17,9213039,RS Umum Daerah Boven Digoel,RSU,Belum Ditetapkan,Pemkab,98
+18,9230002,RS Umum Daerah Tiom,RSU,Belum Ditetapkan,Pemkab,13
+19,9201034,RS Umum Bunda pengharapan,RSU,D,Organisasi Sosial,64
+20,9215011,RS Umum Daerah Agats Kab. Asmat,RSU,D,Pemkab,60
+21,9202014,RS Umum Daerah Dekai,RSU,D,Pemkab,75
+22,9217013,RS Umum Daerah Oksibil,RSU,D,Pemkab,40
+23,9227011,RS Umum Daerah Supiori,RSU,D PRATAMA,Pemkab,48
+24,9211010,RS Umum Daerah Mulia,RSU,D,Pemkab,65
+25,9214012,RS Umum Daerah Kabupaten Mappi,RSU,D,Pemkab,48
+26,9271078,RS Umum Daerah Yowari Sentani,RSU,C,Pemkab,100
+27,9271067,RS Bhayangkara Jayapura,RSU,C,POLRI,109
+28,9271056,RS Dian Harapan,RSU,C,Organisasi Sosial,140
+29,9271045,RS Jiwa Abepura,RSK Jiwa,B,Pemprop,74
+30,9271023,RS Umum Abepura,RSU,C,Pemprop,209
+31,9271012,RS Umum Jayapura,RSU,B,Pemprop,307
+32,9220043,RS Umum Daerah Kwaingga Kabupaten Keerom,RSU,D,Pemkab,75
+33,9212011,RS Umum Daerah Kabupaten Mimika,RSU,C,Pemkab,155
+34,9205030,RS Angkatan Laut dr. R Gandhi AT,RSU,D,TNI AL,41
+35,9205015,RS Umum Biak,RSU,C,Pemkab,209
+36,9204014,RS Umum Daerah Serui,RSU,C,Pemkab,120
+37,9211014,RS Immanuel,RSU,Belum Ditetapkan,Organisasi Protestan,0
+38,9202024,RS Efata Angguruk,RSU,Belum Ditetapkan,Organisasi Protestan,0
+39,9202023,RS Umum Daerah Paniai,RSU,D,Pemkab,92
+40,9202013,RS Umum Wamena,RSU,C,Pemkab,166
+41,9202012,RS Umum Nabire,RSU,C,Pemkab,106
+42,9201012,RS Umum Merauke,RSU,C,Pemkab,227
+43,9201011,RS Mitra Masyarakat Timika,RSU,C,Organisasi Sosial,116
+44,9101021,RS PT. Freeport Indonesia,RSU,D,Swasta,0

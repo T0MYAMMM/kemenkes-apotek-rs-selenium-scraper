@@ -1,0 +1,71 @@
+No.,Kode RS,Nama Rumah Sakit,Jenis RS,Kelas RS,Pemilik,"sembunyi
+Total Ranjang"
+1,1174024,RS Umum Az-Zuhra,RSU,D,Perusahaan,24
+2,1117027,RS Ibu dan Anak Azalia,RSIA,C,Perorangan,24
+3,1111005,RSU Prima Inti Medika,RSU,D,Perusahaan,33
+4,1174023,RS Ibu dan Anak ABBY,RSIA,C,Swasta,36
+5,1174022,RS Umum Metro Medical Center,RSU,C,Swasta,66
+6,1109031,RS Islam Ibnu Sina Sigli,RSU,D,Swasta,60
+7,1110104,RS Umum Jeumpa Hospital,RSU,C,Swasta,72
+8,1104012,RS Umum Nurul Hasanah,RSU,C,Swasta,76
+9,1171150,RS Umum Pertamedika Ummi Rosnati,RSU,C,Perusahaan,138
+10,1107017,RS Tingkat IV IM 07.02,RSU,D,TNI AD,18
+11,1106014,RS Umum Fandika,RSU,D,Swasta,31
+12,1174021,RS Umum Sakinah,RSU,D,Organisasi Sosial,55
+13,1107016,RS Umum Harapan Sehat,RSU,D,Swasta,43
+14,1108017,RS Umum Ibnu Sina,RSU,D,Swasta,45
+15,1171147,RS Umum Prince Nayef Bin Abdul Aziz Syiah Kuala Un,RSU,D,Perusahaan,25
+16,1107015,RS Umum Montella,RSU,D,Swasta,40
+17,1171146,RS Ibu dan Anak Cempaka Az Zahra Banda Aceh,RSIA,C,Perusahaan,33
+18,1171145,RS Umum Meutia,RSU,D,Swasta,27
+19,1110103,RS Umum Avicenna,RSU,D,Swasta,73
+20,1174019,RS Umum Bunga Melati,RSU,D,Perorangan,93
+21,1109029,RS Umum Citra Husada,RSU,D,Perusahaan,70
+22,1110102,RS Umum Telaga Bunda,RSU,D,Organisasi Sosial,46
+23,1173003,RS Umum Ummi Langsa,RSU,D,Swasta,30
+24,1108016,RS Umum Al-Islamic Aceh Hospital,RSU,D,Perusahaan,0
+25,1109028,RS Umum Mufid,RSU,D,Perusahaan,72
+26,1110101,RS Umum Bireuen Medical Center,RSU,D,Organisasi Sosial,75
+27,1118012,RS Umum Daerah Pidie Jaya,RSU,C,Pemkab,10
+28,1116011,RS Umum Daerah Teuku Umar Kabupaten Aceh Jaya,RSU,C,Pemkab,75
+29,1102027,RS Umum Daerah Kota Subulussalam,RSU,C,Pemkot,96
+30,1105078,RS Umum Graha Bunda,RSU,C,Organisasi Sosial,100
+31,1105067,RS Umum Daerah Sultan Alaiddin Said Maulana Abdul,RSU,C,Pemkab,97
+32,1101015,RS Umum Daerah Simeulue,RSU,C,Pemkab,93
+33,1111018,RS Umum PMI Cabang Aceh Utara,RSU,C,Organisasi Sosial,41
+34,1172031,RS AL Sabang,RSU,D,TNI AL,34
+35,1172016,RS Umum Daerah Sabang,RSU,C,Pemkot,62
+36,1171143,RS Bhayangkara Banda Aceh,RSU,D,POLRI,42
+37,1171121,RS Ibu dan Anak Propinsi NAD,RSIA,B,Pemprop,78
+38,1171110,RS Umum Daerah Meuraxa,RSU,B,Pemkot,221
+39,1171106,RS Umum Teungku Fakinah,RSU,C,Organisasi Sosial,104
+40,1171096,RS Umum Harapan Bunda Banda Aceh,RSU,C,Organisasi Sosial,116
+41,1171085,RS Umum Malahayati,RSU,Belum Ditetapkan,Organisasi Sosial,42
+42,1171041,RS Jiwa Aceh,RSK Jiwa,A,Pemprop,354
+43,1171026,RS Tk. II Iskandar Muda Banda Aceh,RSU,B,TNI AD,115
+44,1171015,RS Umum Daerah Dr. Zainoel Abidin,RSU,A,Pemprop,624
+45,1117025,RS Umum Daerah Muyang Kute Redelong Bener Meriah,RSU,C,Pemkab,149
+46,1115012,RS Umum Daerah Sultan Iskandar Muda Nagan Raya,RSU,C,Pemkab,115
+47,1114011,RS Umum Daerah Tamiang,RSU,C,Pemkab,205
+48,1113012,RS Umum Muhammad Ali Kasim,RSU,C,Pemkab,42
+49,1112011,RS Umum Daerah Teungku Peukan,RSU,C,Pemkab,189
+50,1174100,RS Tk. IV Lhokseumawe Aceh Utara,RSU,C,TNI AD,119
+51,1110086,RS Umum Bunda,RSU,C,Organisasi Sosial,89
+52,1110075,RS Umum Daerah Dr. Fauziah Bireun,RSU,B,Pemkab,319
+53,1174064,RS Umum Yayasan Kasih Ibu,RSU,C,Organisasi Sosial,92
+54,1110053,RS Arun Lhokseumawe,RSU,C,Swasta,118
+55,1110027,RS Umum Malahayati,RSU,D,Organisasi Sosial,52
+56,1174016,RS Umum Daerah Cut Meutia Kab. Aceh Utara,RSU,B,Pemkab,280
+57,1109027,RS Umum Daerah TGK. Abdullah Syafii Beureuneun,RSU,D,Pemkab,147
+58,1109016,RS Umum Daerah TGK Chik Ditiro Sigli,RSU,B,Pemkab,305
+59,1108015,RS Umum Daerah Kabupaten Aceh Besar,RSU,C,Pemkab,93
+60,1107014,RS Umum Daerah Cut Nyak Dhien,RSU,B,Pemkab,215
+61,1106013,RS Umum Daerah Datu Beru Takengon,RSU,B,Pemkab,343
+62,1105056,RS Umum Daerah dr. Zubir Mahmud,RSU,C,Pemkab,142
+63,1173045,RS Cut Nyak Dhien Langsa,RSU,D,Organisasi Sosial,67
+64,1105034,RS Umum Pertamina Rantau,RSU,D,BUMN,48
+65,1173023,RS Umum Cut Meutia,RSU,C,BUMN,94
+66,1173012,RS Umum Daerah Langsa,RSU,B,Pemkot,312
+67,1104011,RS Umum Daerah H. Sahudin Kutacane,RSU,C,Pemkab,162
+68,1103010,RS Umum Daerah Dr. H. Yulidin Away,RSU,B,Pemkab,210
+69,1102016,RS Umum Daerah Aceh Singkil,RSU,C,Pemkab,94

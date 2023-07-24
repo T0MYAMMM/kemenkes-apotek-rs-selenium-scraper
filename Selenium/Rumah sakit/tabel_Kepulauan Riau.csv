@@ -1,0 +1,35 @@
+No.,Kode RS,Nama Rumah Sakit,Jenis RS,Kelas RS,Pemilik,"sembunyi
+Total Ranjang"
+1,2171063,RS Ibu dan Anak Kasih Sayang Ibu,RSIA,C,Perusahaan,18
+2,2171062,RS Keluarga Husada Batam,RSU,C,Perusahaan,52
+3,2171061,RS Bhayangkara Batam Polda Kepri,RSU,D,POLRI,50
+4,2101002,RS Ibu dan Anak Graha RAP,RSIA,C,Perusahaan,22
+5,2071059,RS Umum Soedarsono Darmosoewito,RSU,C,Organisasi Sosial,70
+6,2071054,RS Ibu dan Anak Griya Medika Batam,RSIA,C,Perusahaan,20
+7,2071057,RS Ibu dan Anak Frisdhy Angel,RSIA,C,Perusahaan,25
+8,2071053,RS Umum Santa Elisabeth Batam Kota,RSU,C,Perusahaan,118
+9,2071050,RS Umum Graha Hermine,RSU,C,Perusahaan,93
+10,2105005,RS Umum Daerah Tarempa,RSU,D,Pemkab,26
+11,2005002,RS Umum Daerah Bergerak Jemaja,RSU,D,Pemkab,14
+12,2072002,RS Umum Daerah Provinsi Kepulauan Riau Tanjungpina,RSU,B,Pemprop,178
+13,2002002,RS Umum Daerah Kabupaten Bintan,RSU,C,Pemkab,53
+14,2171064,RS Santa Elisabeth Sei Lekop,RSU,D,Perusahaan,38
+15,2071048,RS Ibu dan Anak Mutiara Aini,RSIA,C,Perusahaan,33
+16,2004012,RS Umum Daerah Dabo Kabupaten Lingga,RSU,D,Pemkab,48
+17,2004136,RS Umum Daerah Encik Mariyam,RSU,D,Pemkab,49
+18,2003125,RS Umum Daerah Palmatak,RSU,D,Pemkab,32
+19,2071114,RS Umum Daerah Embung Fatimah Kota Batam,RSU,B,Pemkot,220
+20,2071103,RS Umum Awal Bros Batam,RSU,B,Perusahaan,155
+21,2071056,RS Umum Camatha Sahidya,RSU,C,Perusahaan,83
+22,2071034,RS Badan Pengusahaan Batam,RSU,B,Kementerian Lain,112
+23,2071023,RS Umum Harapan Bunda Batam,RSU,C,Organisasi Sosial,101
+24,2071012,RS Umum Budi Kemuliaan Batam,RSU,B,Organisasi Sosial,152
+25,2071037,RS Umum Charis Medika,RSU,C,Swasta,47
+26,2071015,RS Umum Santa Elisabeth Batam,RSU,C,Organisasi Katholik,91
+27,2001013,RS Umum Daerah Muhammad Sani Kabupaten Karimun,RSU,C,Pemkab,133
+28,2003056,RSAU dr. Yuniati Wisma Karyani,RSU,D,TNI AU,26
+29,2001045,RS Umum Bhakti Timah,RSU,C,Perusahaan,76
+30,2072023,RS Umum AL Dr Midiyato S,RSU,B,TNI AL,128
+31,2072012,RS Umum Daerah Kota Tanjung Pinang,RSU,C,Pemkot,125
+32,2003011,RS Umum Daerah Natuna,RSU,C,Pemkab,80
+33,2002010,RS Umum Daerah Tanjung Uban,RSU,C,Pemprop,100

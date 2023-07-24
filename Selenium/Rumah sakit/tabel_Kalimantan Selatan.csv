@@ -1,0 +1,47 @@
+No.,Kode RS,Nama Rumah Sakit,Jenis RS,Kelas RS,Pemilik,Total Ranjang
+1,6372020,RS Umum Nirwana,RSU,C,Perusahaan,26
+2,6301020,RSUD KH Mansyur,RSU,D,Pemkab,44
+3,6371156,RS Umum Daerah Sultan Suriansyah Banjarmasin,RSU,C,Pemkot,21
+4,6372019,RSU Almansyur Medika Banjarbaru,RSU,C,Perusahaan,26
+5,6305011,RS Umum Handayati,RSU,D,Swasta,51
+6,6308014,RS Mulia Amuntai,RSU,D,Swasta,14
+7,6372018,RS Umum Mawar,RSU,D,Perusahaan,32
+8,6372017,RS Umum Syifa Medika,RSU,C,Perorangan,72
+9,6371155,RS Ibu dan Anak Annisa,RSIA,C,Swasta,19
+10,6301016,RS Ibu dan Anak Ibunda,RSIA,C,Perorangan,24
+11,6303033,RS Umum Ciputra Mitra Hospital,RSU,B,Perusahaan,43
+12,6310018,RS Umum Marina Permata,RSU,C,Swasta,95
+13,6301015,RS Borneo Citra Medika,RSU,C,Swasta,59
+14,6306024,RS Umum Daerah Daha Sejahtera,RSU,D,Pemkab,42
+15,6306023,RS Umum Ceria,RSU,D,Swasta,48
+16,6310016,RS Bersalin Paradise,RSIA,C,Swasta,15
+17,6301014,RS Ibu dan Anak Ainun,RSIA,C,Organisasi Sosial,22
+18,6303030,RS Umum Aveciena Medika,RSU,D,Perusahaan,43
+19,6303028,RS Ibu dan Anak Mutiara Bunda,RSIA,C,Perorangan,23
+20,6372016,RS TK IV Guntung Payung,RSU,D,TNI AD,22
+21,6371153,RS Khusus Gigi dan Mulut Gusti Hasan Aman,RSK GM,B,Pemprop,12
+22,6303027,RS Umum Pelita Insani,RSU,C,Swasta,67
+23,6311016,RS Umum Daerah Balangan,RSU,C,Pemkab,107
+24,6372014,RS Umum Daerah Idaman Banjarbaru,RSU,C,Pemkot,172
+25,6371152,RS Bhayangkara Tk. III Banjarmasin,RSU,C,POLRI,79
+26,6371141,RS TNI-AU Tk.IV Syamsudin Noor,RSU,C,TNI AU,50
+27,6371130,RS Khusus Bedah Banjarmasin Siaga,RSK BEDAH,B,Swasta,31
+28,6371094,RS Umum Sari Mulia,RSU,C,Organisasi Sosial,114
+29,6371072,RS Umum Daerah Dr. H. Moch. Ansari Saleh,RSU,B,Pemprop,299
+30,6371050,RS Tk.III Dr. R.Soeharsono,RSU,C,TNI AD,131
+31,6371046,RS Islam Banjarmasin,RSU,C,Organisasi Islam,91
+32,6371024,RS Umum Suaka Insan,RSU,C,Organisasi Sosial,136
+33,6371013,RS Umum Daerah Ulin Banjarmasin,RSU,A,Pemprop,610
+34,6310015,RS Umum Daerah dr. H. Andi Abdurrahman Noor,RSU,C,Pemkab,115
+35,6309025,RS Umum Pertamina Tanjung,RSU,C,BUMN,57
+36,6309014,RS Umum Daerah H. Badaruddin Kasim,RSU,C,Pemkab,64
+37,6308013,RS Umum Daerah Pambalah Batung,RSU,C,Pemkab,200
+38,6307012,RS Umum Daerah H Damanhuri Barabai,RSU,C,Pemkab,227
+39,6306011,RS Umum Daerah Brigjed H. Hasan Basry Kandangan,RSU,B,Pemkab,209
+40,6305010,RS Umum Daerah Datu Sanggul Rantau,RSU,C,Pemkab,92
+41,6304020,RS Umum Daerah H. Abdul Aziz Marabahan,RSU,C,Pemkab,79
+42,6304016,RS Jiwa Sambang Lihum,RSK Jiwa,A,Pemprop,300
+43,6303026,RS Umum Danau Salak,RSU,D,BUMN,56
+44,6303015,RS Umum Daerah Ratu Zalecha,RSU,B,Pemkab,251
+45,6302014,RS Umum Daerah Kabupaten Kotabaru,RSU,C,Pemkab,91
+46,6301013,RS Umum Daerah H. Boejasin Pelaihari,RSU,C,Pemkab,140

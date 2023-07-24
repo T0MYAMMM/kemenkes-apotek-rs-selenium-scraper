@@ -1,0 +1,79 @@
+No.,Kode RS,Nama Rumah Sakit,Jenis RS,Kelas RS,Pemilik,"sembunyi
+Total Ranjang"
+1,1813001,RSUD KH. Muhammad Thohir KRUI,RSU,D,Pemkab,38
+2,1803036,RS Airan Raya,RSU,C,Swasta,81
+3,1806039,RS Medika Insani,RSU,D,Swasta,38
+4,1871448,RS Mata Lampung Eye Center (LEC),RSK Mata,C,Swasta,16
+5,1806038,RS Candimas Medical Center,RSU,D,Swasta,40
+6,1801018,RSU Puri Husadatama,RSU,D PRATAMA,Swasta,22
+7,1806037,RS Maria Regina,RSU,D,Organisasi Katholik,41
+8,1803035,RS Umum Daerah Bandar Negara Husada,RSU,C,Pemprop,104
+9,1803034,RS Ibu Anak Hidayah Ibu,RSIA,C,Swasta,18
+10,1810007,RS Khusus Bedah Kurnia Medical Center,RSK BEDAH,C,Swasta,48
+11,1804015,RS Umum Permata Hati,RSU,C,Swasta,50
+12,1811002,RS Umum Daerah Ragab Begawe Caram,RSU,C,Pemkab,76
+13,1804014,RS Ibu dan Anak Ibunda,RSIA,C,Organisasi Sosial,33
+14,1804013,RS Ibu dan Anak Mawar,RSIA,C,Swasta,33
+15,1812003,RS Umum Daerah Tulang Bawang Barat,RSU,D,Pemkab,0
+16,1871447,RS Ibu dan Anak Belleza Kedaton Bandar Lampung,RSIA,C,Perusahaan,38
+17,1871446,RS Ibu dan Anak Bunda Asy Syifa,RSIA,C,Perusahaan,28
+18,1805049,RS Ibu Anak Puti Bungsu,RSIA,C,Swasta,23
+19,1801016,RS Ibu dan Anak Bunda,RSIA,C,Perusahaan,40
+20,1807017,RS Umum Bunda,RSU,C,Swasta,105
+21,1805048,RS Umum Az - Zahra,RSU,C,Perusahaan,57
+22,1805047,RS Ibu Anak Puri Adhya Paramita,RSIA,C,Perusahaan,29
+23,1810005,RS Ibu dan Anak Harapan Bunda,RSIA,C,Swasta,25
+24,1871444,RS Ibu dan Anak Sinta,RSIA,C,Perusahaan,39
+25,1808017,RS Umum Penawar Medika,RSU,D,Perusahaan,42
+26,1808016,RS Umum Mutiara Bunda,RSU,D,Swasta,73
+27,1809003,RS Umum Gladish Medical Center,RSU,D,Swasta,53
+28,1872066,RS Azizah,RSU,D,Perusahaan,30
+29,1812002,RS Umum Asy-Syifa Medika,RSU,D,Perusahaan,38
+30,1871443,RS Ibu dan Anak Santa Anna,RSIA,C,Swasta,35
+31,1805046,RS Umum Kartini,RSU,D,Swasta,56
+32,1809002,RS Umum Daerah Pesawaran,RSU,C,Pemkab,85
+33,1806036,RS Umum HI. Muhammad Yusuf,RSU,D,Perusahaan,45
+34,1871442,RS Ibu dan Anak Puri Betik Hati,RSIA,C,Perusahaan,63
+35,1871439,RS Ibu dan Anak Restu Bunda,RSIA,C,Perusahaan,49
+36,1871002,RS Umum Wisma Rini Pringsewu,RSU,D,Perorangan,90
+37,1871440,RS Ibu dan Anak Mutiara Putri,RSIA,C,Perusahaan,29
+38,1804012,RS Umum Aka Medika Sribhawono,RSU,C,Perorangan,55
+39,1810004,RS Ibu dan Anak Mutiara Hati,RSIA,C,Perusahaan,29
+40,1807016,RS Umum Haji Kamino,RSU,C,Organisasi Sosial,40
+41,1810003,RSU Surya Asih,RSU,D,Perorangan,61
+42,1803033,RS Natar Medika,RSU,C,Perusahaan,91
+43,1872065,RS Bersalin Asih,RSIA,C,Organisasi Sosial,26
+44,1872064,RS Umum Permata Hati Metro,RSU,C,Organisasi Sosial,45
+45,1872053,RS Ibu dan Anak Anugerah Medical Center Metro,RSIA,C,Organisasi Sosial,62
+46,1872042,RS Umum Muhammadiyah Metro,RSU,C,Organisasi Sosial,164
+47,1871048,RS Umum Daerah Dr. A. Dadi Tjokrodipo,RSU,C,Pemkot,115
+48,1872031,RS Umum Islam Metro,RSU,D,Organisasi Sosial,71
+49,1871037,RS Ibu dan Anak Anugerah Medika,RSIA,C,Perusahaan,30
+50,1805045,RS Umum Harapan Bunda,RSU,C,Perusahaan,93
+51,1805034,RS Umum Daerah Demang Sepulau Raya,RSU,C,Pemkab,121
+52,1871020,RS Umum Mardi Waluyo,RSU,C,Organisasi Sosial,204
+53,1872016,RS Umum Daerah Ahmad Yani Metro,RSU,B,Pemkot,242
+54,1871438,RS Bhayangkara Polda Lampung,RSU,C,POLRI,67
+55,1871427,RS Umum Pertamina-Bintang Amin Lampung,RSU,C,Perusahaan,147
+56,1871416,RS Umum Graha Husada,RSU,C,Perusahaan,128
+57,1871405,RS Umum Urip Sumoharjo,RSU,B,Perusahaan,417
+58,1871282,RS Umum Advent Bandar Lampung,RSU,C,Organisasi Sosial,167
+59,1871234,RS Umum Bumi Waras,RSU,C,Organisasi Sosial,143
+60,1871223,RS Khusus Mata Permana Sari,RSK Mata,C,Organisasi Sosial,28
+61,1871180,RS Umum Imanuel Way Halim,RSU,B,Organisasi Protestan,144
+62,1871176,RS Jiwa Bandar Lampung,RSK Jiwa,B,Pemprop,122
+63,1871026,RS Tk IV 02.07.04,RSU,C,TNI AD,137
+64,1801017,RS Umum Daerah Dr H Abdul Moeloek,RSU,A,Pemprop,576
+65,1808015,RS Umum Daerah Menggala Tulang Bawang,RSU,B,Pemkab,144
+66,1807014,RS Umum Daerah Zainal Abidin Pagar Alam,RSU,C,Pemkab,57
+67,1806035,RS Umum Handayani,RSU,C,Perusahaan,145
+68,1805024,RS Umum Islam Asy-Syifaa Bandar Jaya,RSU,C,Perusahaan,84
+69,1806013,RS Umum Daerah May Jen HM Ryacudu,RSU,C,Pemkab,118
+70,1805023,RS Umum Yukum Medical Centre,RSU,C,Swasta,126
+71,1805012,RS Umum Mitra Mulia Husada,RSU,D,Swasta,45
+72,1804011,RS Umum Daerah Sukadana,RSU,C,Pemkab,109
+73,1803010,RS Umum Daerah Pringsewu,RSU,C,Pemkab,166
+74,1802038,RS Umum Mitra Husada,RSU,C,Swasta,169
+75,1802027,RS Umum Daerah Batin Mangunang,RSU,C,Pemkab,119
+76,1802016,RS Panti Secanti,RSU,D,Organisasi Sosial,72
+77,1801015,RS Umum Daerah Alimuddin Umar,RSU,C,Pemkab,117

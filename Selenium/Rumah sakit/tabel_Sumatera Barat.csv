@@ -1,0 +1,80 @@
+No.,Kode RS,Nama Rumah Sakit,Jenis RS,Kelas RS,Pemilik,"sembunyi
+Total Ranjang"
+1,1309024,Rumah Sakit Kelas D Pratama Pasaman,RSU,D PRATAMA,Pemkab,55
+2,1304017,RS Khusus Ibu dan Anak Haryanda,RSIA,C,Perorangan,14
+3,1371466,RSU Hermina Padang,RSU,C,Swasta,41
+4,1377008,RS Ibu dan Anak Citra Aguswar Medical Center,RSIA,C,Swasta,25
+5,1304015,RS Alya,RSU,D,Swasta,21
+6,1372014,RS Ibu Dan Anak Ananda,RSIA,C,Swasta,0
+7,1309023,RS Islam Ibnu Sina Panti Yarsi,RSU,D,Swasta,24
+8,1311002,RS Umum Daerah Sungai Rumbai,RSU,D,Pemkab,17
+9,1376017,RS Ibu dan Anak Annisa Payakumbuh,RSIA,C,Perorangan,26
+10,1302013,RS Umum Daerah Tapan,RSU,D,Pemkab,50
+11,1376016,RS Ibu dan Anak Sukma Bunda,RSIA,C,Perusahaan,25
+12,1372013,RS Ibu dan Anak Permata Bunda Solok,RSIA,C,Perusahaan,30
+13,1371465,RS Ibu dan Anak Restu Ibu,RSIA,C,Swasta,23
+14,1305017,RS Umum Harapan Ibunda,RSU,D,Swasta,25
+15,1371464,RS. Universitas Andalas,RSU,C,Kementerian Lain,88
+16,1305016,RS Ibu dan Anak Fadhila Batusangkar,RSIA,C,Perusahaan,41
+17,1377007,RS Umum Daerah Dr Sadikin Kota Pariaman,RSU,D,Pemkot,26
+18,1302012,RS Umum BKM,RSU,D,Perusahaan,56
+19,1371463,RS Khusus Bedah Kartika Docta,RSK BEDAH,C,Swasta,25
+20,1371462,RS Umum Naili DBS,RSU,C,Swasta,41
+21,1312025,RS Ibu dan Anak AL-Ihsan,RSIA,C,Perorangan,30
+22,1377005,RS Umum Tamar Medical Centre,RSU,D,Swasta,50
+23,1372015,RS Ibu dan Anak Yasmin,RSIA,Belum Ditetapkan,Swasta,0
+24,1306057,RS Paru Sumatera Barat,RSK PARU,B,Pemprop,40
+25,1371460,RS Ibu dan Anak Mutiara Bunda,RSIA,C,Perusahaan,24
+26,1308012,RS Bersalin Harapan Bunda,RSIA,Belum Ditetapkan,Swasta,0
+27,1377003,RS Umum Aisyiyah Pariaman,RSU,D,Organisasi Sosial,78
+28,1305015,RS Ibu dan Anak Sayang Ibu,RSIA,C,Swasta,20
+29,1371451,RS Ibu dan Anak Cicik,RSIA,C,Swasta,26
+30,1371459,RS Khusus Mata Regina Eye Center,RSK Mata,C,Perusahaan,24
+31,1371457,RS Khusus Mata Padang Eye Center,RSK Mata,C,Swasta,24
+32,1376011,RS Umum Ibnu Sina Kota Payakumbuh,RSU,C,Organisasi Islam,78
+33,1375052,RS Khusus THT Sitawa Sidingin,RSK THT-KL,Belum Ditetapkan,Perorangan,0
+34,1307017,RS Ibu dan Anak Rezki Bunda,RSIA,C,Perorangan,37
+35,1372012,RS Tkt. IV 01.07.06 Solok,RSU,D,TNI AD,60
+36,1371456,RS Islam Siti Rahmah,RSU,C,Organisasi Islam,80
+37,1371455,RS Ibu dan Anak Siti Hawa,RSIA,C,Perorangan,37
+38,1371454,RS Khusus Gigi dan Mulut Baiturrahmah,RSK GM,B,Organisasi Islam,3
+39,1304014,RS Umum Daerah Kabupaten Sijunjung,RSU,C,Pemkab,81
+40,1371446,RS Umum Citra Bunda Medical Center Padang,RSU,C,Perorangan,92
+41,1306056,RS Umum Daerah Padang Pariaman,RSU,C,Pemkab,95
+42,1375051,RS Umum Madina,RSU,D,Organisasi Islam,44
+43,1376015,RS Umum Daerah Dr Adnaan WD,RSU,C,Pemkot,139
+44,1375040,RS Umum Ibnu Sina Bukittinggi,RSU,C,Organisasi Islam,151
+45,1375036,RS Stroke Nasional,RSK STROKE,B,Kemkes,156
+46,1375025,RS Tk IV Bukit Tinggi,RSU,D,TNI AD,50
+47,1375014,RS Umum Daerah Dr. Achmad Mochtar,RSU,B,Pemprop,340
+48,1374024,RS Umum Ibnu Sina Padang Panjang,RSU,D,Organisasi Islam,32
+49,1374013,RS Umum Daerah Padang Panjang,RSU,C,Pemkot,121
+50,1373012,RS Umum Daerah Sawah Lunto,RSU,C,Pemkot,125
+51,1372011,RS Umum Daerah Mohammad Natsir,RSU,B,Pemprop,174
+52,1371444,RS Umum Daerah dr. Rasidin Padang,RSU,C,Pemkot,126
+53,1371422,RS Khusus Bedah Ropanasuri,RSK BEDAH,C,Organisasi Sosial,33
+54,1302015,RS Khusus Ibu dan Anak Permata Hati,RSIA,C,Swasta,14
+55,1371400,RS Ibu dan Anak Lenggogeni,RSIA,C,Organisasi Sosial,29
+56,1371316,RS Jiwa Prof.Dr. Hasan Basri Saanin Datuk Tan Pari,RSK Jiwa,A,Pemprop,314
+57,1371305,RS Umum Semen Padang Hospital,RSU,C,BUMN,134
+58,1371284,RS Umum Selaguri,RSU,D,Organisasi Sosial,33
+59,1371273,RSIA Bunda Padang,RSIA,C,Organisasi Sosial,30
+60,1371251,RS Jiwa Puti Bungsu,RSK Jiwa,C,Organisasi Sosial,40
+61,1371123,RS Bhayangkara Padang,RSU,D,POLRI,41
+62,1371112,RS Umum Aisyiyah Padang,RSU,C,Organisasi Sosial,56
+63,1371091,RS Umum Islam Ibnu Sina,RSU,C,Organisasi Islam,116
+64,1371032,RS Umum Yos Sudarso,RSU,C,Organisasi Katholik,125
+65,1371021,RS Tk III Reksodiwiryo Padang,RSU,C,TNI AD,172
+66,1371010,RSUP Dr. M. Djamil,RSU,A,Kemkes,626
+67,1312024,RS Umum Daerah Pasaman Barat,RSU,C,Pemkab,127
+68,1309022,RS Umum Islam Ibnu Sina,RSU,C,Organisasi Islam,97
+69,1309011,RS Umum Daerah Lubuk Sikaping,RSU,C,Pemkab,155
+70,1308010,RS Umum Daerah dr. Achmad Darwis,RSU,C,Pemkab,85
+71,1308016,RS Umum Daerah Lubuk Basung,RSU,C,Pemkab,126
+72,1306015,RS Umum Daerah Pariaman,RSU,B,Pemprop,168
+73,1305014,RS Umum Daerah Prof Dr M.A Hanafiah,RSU,C,Pemkab,43
+74,1311013,RS Umum Daerah Sungai Dareh,RSU,C,Pemkab,122
+75,1303023,RS Umum Daerah Arosuka Solok,RSU,C,Pemkab,90
+76,1303012,RS Umum Daerah Muara Labuh,RSU,C,Pemkab,88
+77,1302011,RS Umum Daerah Dr. Muhammad Zein Painan,RSU,C,Pemkab,180
+78,1301010,RS Umum Daerah Kep. Mentawai,RSU,D,Pemkab,48

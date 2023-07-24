@@ -1,0 +1,87 @@
+No.,Kode RS,Nama Rumah Sakit,Jenis RS,Kelas RS,Pemilik,"sembunyi
+Total Ranjang"
+1,1674008,RS Umum Daerah Petanang,RSU,D,Pemkot,42
+2,1607016,RS Umum Daerah Pratama Sukajadi,RSU,D PRATAMA,Pemkab,18
+3,1607015,RS Umum Daerah Pratama Makarti Jaya,RSU,D PRATAMA,Pemkab,20
+4,1601088,RS Ibu dan Anak Graha Kurnia,RSIA,C,Swasta,4
+5,1671350,RS Umum Daerah Gandus Palembang,RSU,D,Pemkot,32
+6,1601086,RS Ibu dan Anak Amanna,RSIA,C,Swasta,26
+7,1674007,RS Ibu dan Anak Ananda Lubuk Linggau,RSIA,C,Perorangan,18
+8,1607014,RS Hermina OPI Jakabaring,RSU,C,Perusahaan,43
+9,1611002,RS Pratama Pendopo,RSU,D PRATAMA,Pemkab,10
+10,1603089,RS Umum Daerah Gelumbang,RSU,D,Pemkab,0
+11,1603088,RS Umum Daerah Lubai Ulu,RSU,D,Pemkab,29
+12,1603087,RS Umum Daerah Semende Darat Laut,RSU,D,Pemkab,30
+13,1674005,RS Ibu dan Anak Dwi Sari,RSIA,C,Perorangan,14
+14,1610005,RS Ar-Royyan,RSU,D,Swasta,37
+15,1602016,RS Safira Pasa,RSU,D,Perorangan,54
+16,1602015,RS Pratama Tugu Jaya,RSU,D PRATAMA,Pemkab,0
+17,1601084,RS Umum Dokter Maulana AK,RSU,D,Perusahaan,27
+18,1674003,RS Siloam Silampari,RSU,C,Swasta,68
+19,1671348,RS Ibu dan Anak Mama,RSIA,Belum Ditetapkan,Perusahaan,25
+20,1671347,RS Umum Daerah Siti Fatimah Provinsi Sumatera Sela,RSU,B,Pemprop,181
+21,1671346,RS Ibu dan Anak Kader Bangsa Palembang,RSIA,C,Organisasi Sosial,50
+22,1671343,RS Umum Ar-Rasyid Palembang,RSU,C,Swasta,96
+23,1671342,RS Musi Medika Cendikia,RSU,C,Perusahaan,38
+24,1671341,RS Ibu dan Anak Marissa Palembang,RSIA,C,Organisasi Sosial,12
+25,1671340,RS Ibu dan Anak Az-Zahra Palembang,RSIA,C,Organisasi Sosial,20
+26,1610004,RS Umum Mahyuzahra,RSU,D,Swasta,27
+27,1671339,RS Ibu dan Anak Bunda Noni,RSIA,C,Perusahaan,28
+28,1671337,RS Ibu dan Anak Trinanda Palembang,RSIA,Belum Ditetapkan,Swasta,10
+29,1609012,RS Islam At-Taqwa Gumawang,RSU,D,Swasta,80
+30,1671336,RSU Graha Mandiri,RSU,D,Perusahaan,43
+31,1671335,RS Siloam Sriwijaya Palembang,RSU,C,Perusahaan,153
+32,1672002,RS Umum Fadhilah Kota Prabumulih,RSU,D,Perusahaan,60
+33,1671333,RS Pelabuhan Palembang,RSU,C,Perusahaan,60
+34,1674002,RS AR Bunda Kota Lubuk Linggau,RSU,C,Swasta,219
+35,1607017,RS Bunda Medika Jakabaring,RSU,C,Perusahaan,100
+36,1671332,RS Umum YK Madira Palembang,RSU,C,Perorangan,66
+37,1605044,RS Umum Daerah Muara Beliti,RSU,D,Pemkab,50
+38,1671331,RS Bhayangkara Palembang,RSU,C,POLRI,81
+39,1610003,RS Umum Daerah Kabupaten Ogan Ilir,RSU,D,Pemkab,50
+40,1671329,RS Ibu dan Anak Widiyanti Palembang,RSIA,C,Organisasi Sosial,0
+41,1671328,RS Khusus Gigi dan Mulut Palembang Provinsi Sumate,RSK GM,C,Pemprop,11
+42,1671327,RS Karya Asih Charitas Palembang,RSU,D,Organisasi Sosial,47
+43,1611042,RS Umum Daerah Kabupaten Empat Lawang,RSU,D,Pemkab,79
+44,1601002,RS Umum Dr. Noesmir Baturaja,RSU,D,TNI AD,81
+45,1671325,RS Hermina Palembang,RSU,C,Perusahaan,172
+46,1671324,RS Ibu dan Anak Rika Amelia,RSIA,C,Organisasi Sosial,35
+47,1609011,RS Umum Daerah Martapura,RSU,D,Pemkab,50
+48,1671094,RS Umum Sriwijaya,RSU,C,Perusahaan,93
+49,1671072,RS Dr. Rivai Abdullah,RSU,C,Kemkes,143
+50,1671323,RS Khusus Mata Masyarakat Provinsi Sumatera Selat,RSK Mata,B,Pemprop,39
+51,1671312,RS Khusus Paru Palembang,RSK PARU,B,Pemprop,31
+52,1671301,RS Muhammadiyah Palembang,RSU,C,Organisasi Islam,194
+53,1671276,RS Umum Myria Palembang,RSU,C,Organisasi Katholik,106
+54,1671265,RS Umum Daerah Palembang Bari,RSU,B,Pemkot,223
+55,1671254,RS Ibu dan Anak Tiara Fatrin Palembang,RSIA,C,Swasta,29
+56,1671243,RS Umum Bunda Palembang,RSU,C,Organisasi Sosial,160
+57,1671083,RS Islam Siti Khadijah,RSU,B,Organisasi Sosial,184
+58,1671061,RS Jiwa Ernaldi Bahar Provinsi Sumatera Selatan,RSK Jiwa,A,Pemprop,200
+59,1671050,RS Umum RK Charitas,RSU,B,Organisasi Sosial,313
+60,1671046,RS Umum Pusri Palembang,RSU,C,Perusahaan,120
+61,1671035,RS Umum dr. AK.Gani Kota Palembang,RSU,C,TNI AD,208
+62,1671024,RS Umum Pertamina Palembang,RSU,C,BUMN,59
+63,1671013,RS Umum Pusat Dr. Mohammad Hoesin Palembang,RSU,A,Kemkes,868
+64,1608051,RS Umum Daerah Muara Dua,RSU,D,Pemkab,81
+65,1607012,RS Umum Daerah Banyuasin,RSU,C,Pemkab,93
+66,1606032,RS Umum Daerah Bayung Lincir,RSU,D,Pemkab,55
+67,1606022,RS Umum Daerah Sungai Lilin,RSU,D,Pemkab,53
+68,1606011,RS Umum Daerah Sekayu,RSU,B,Pemkab,219
+69,1605043,RS Umum Daerah Rupit Kabupaten Musi Rawas Utara,RSU,D,Pemkab,52
+70,1674032,RS Umum Daerah Siti Aisyah Kota Lubuk Linggau,RSU,C,Pemkot,129
+71,1674010,RS Umum Daerah Dr. Sobirin Kabupaten Musi Rawas,RSU,C,Pemkab,108
+72,1673031,RS Umum Daerah Basemah Kota Pagar Alam,RSU,D,Pemkot,125
+73,1604020,RS Tk IV Lahat,RSU,D,TNI AD,59
+74,1604016,RS Umum Daerah Lahat,RSU,C,Pemkab,169
+75,1603085,RS Umum Daerah Talang Ubi,RSU,D,Pemkab,76
+76,1672074,RS AR Bunda Kota Prabumulih,RSU,C,Perusahaan,202
+77,1603063,RS Umum Daerah dr. H. M. Rabain Muara Enim,RSU,B,Pemkab,258
+78,1603030,RS Umum Bukit Asam Medika,RSU,C,BUMN,82
+79,1672026,RS Pertamina Kota Prabumulih,RSU,C,BUMN,78
+80,1672015,RS Umum Daerah Kota Prabumulih,RSU,C,Pemkot,148
+81,1602014,RS Umum Daerah Kayuagung,RSU,C,Pemkab,235
+82,1609083,RS Umum Daerah Ogan Komering Ulu Timur,RSU,C,Pemkab,120
+83,1609046,RS Umum Panti Bhaktiningsih,RSU,D,Organisasi Sosial,107
+84,1601035,RS Santo Antonio Baturaja,RSU,D,Organisasi Katholik,66
+85,1601013,RS Umum Daerah Dr. Ibnu Sutowo Baturaja,RSU,C,Pemkab,141

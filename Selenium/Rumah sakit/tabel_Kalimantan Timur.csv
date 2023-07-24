@@ -1,0 +1,55 @@
+No.,Kode RS,Nama Rumah Sakit,Jenis RS,Kelas RS,Pemilik,Total Ranjang
+1,6404053,RS Sandaran Bengalon,RSU,D,Swasta,0
+2,6401018,RS Pratama Batu Engau,RSU,D PRATAMA,Pemkab,50
+3,6411002,RS Nawacita Datah Dave,RSU,D PRATAMA,Pemkab,50
+4,6411001,RS Gerbang Sehat Mahulu,RSU,D PRATAMA,Pemkab,35
+5,6472130,RS Hermina Samarinda,RSU,C,Perusahaan,42
+6,6401016,RS Umum Muhammadiyah Paser,RSU,D,Organisasi Islam,51
+7,6405012,RS Umum Daerah Talisayan,RSU,D PRATAMA,Pemkab,50
+8,6404051,RS Umum Daerah Sangkulirang,RSU,D,Pemkab,48
+9,6471086,RS Hermina Balikpapan,RSU,C,Swasta,59
+10,6472129,RS Ibu dan Anak Herawaty,RSIA,C,Swasta,25
+11,6471085,RS Ibu Anak Asih Balikpapan,RSIA,C,Perusahaan,18
+12,6472128,RS Umum Daerah KORPRI Provinsi Kalimantan Timur,RSU,D,Pemprop,14
+13,6471082,RS Khusus Mata SMEC Balikpapan,RSK Mata,C,Perusahaan,18
+14,6404045,RS Ibu Anak Cahaya Sangatta,RSIA,C,Swasta,35
+15,6403017,RS Umum Daerah Dayaku Raja,RSU,C,Pemkab,0
+16,6471080,RS Bersalin Kasih Bunda,RSIA,C,Swasta,14
+17,6471079,RS Umum Daerah Beriman,RSU,C,Pemkot,112
+18,6471078,RS Umum Tingkat IV Lanud Balikpapan,RSU,D,TNI AU,11
+19,6474034,RS Islam Bontang,RSU,D,Swasta,63
+20,6472124,RS Siaga Al-Munawwarah Samarinda,RSU,C,Perusahaan,47
+21,6472123,RS Samarinda Medika Citra,RSU,C,Perusahaan,147
+22,6472121,RS Khusus Ibu dan Anak Qurrata A'yun,RSIA,C,Swasta,28
+23,6404047,RS Ibu Anak Asy Syifa,RSIA,C,Swasta,12
+24,6404046,RS Umum Medika Sangatta,RSU,D,Swasta,104
+25,6471077,RS Umum Balikpapan Baru,RSU,D,Swasta,63
+26,6471075,RS Siloam Hospitals Balikpapan,RSU,B,Swasta,150
+27,6404044,RS Pupuk Kaltim Prima Sangata,RSU,D,Swasta,43
+28,6474033,RS Amalia Bontang,RSU,C,Swasta,49
+29,6471074,RS Medika Utama Permata,RSU,C,Swasta,40
+30,6404043,RS Umum Meloy,RSU,D,Swasta,86
+31,6471073,RS Bhayangkara Balikpapan,RSU,C,POLRI,74
+32,6474032,RS Umum Daerah Taman Husada,RSU,B,Pemkot,133
+33,6474021,RS Pupuk Kaltim,RSU,C,Swasta,90
+34,6474010,RS LNG Badak,RSU,D,Swasta,46
+35,6472118,RS Umum Daerah Inche Abdoel Moeis,RSU,C,Pemkot,137
+36,6472107,RS Umum Haji Darjad,RSU,C,Swasta,126
+37,6472096,RS Umum Bhakti Nugraha,RSU,D,Organisasi Sosial,49
+38,6472063,RS Jiwa Atma Husada Mahakam,RSK Jiwa,A,Pemprop,172
+39,6472052,RS Ibu dan Anak Aisyiyah Samarinda,RSIA,C,Organisasi Sosial,33
+40,6472041,RS Umum Tk. IV Samarinda,RSU,D,TNI AD,43
+41,6472030,RS Umum Dirgahayu,RSU,C,Organisasi Sosial,262
+42,6472015,RS Umum Daerah Abdul Wahab Sjahranie,RSU,B,Pemprop,666
+43,6471062,RS Ibu dan Anak Sayang Ibu,RSIA,C,Pemkot,23
+44,6471051,RS Restu Ibu,RSU,C,Organisasi Sosial,144
+45,6471036,RS Tk.II Dr R Hardjanto,RSU,B,TNI AD,144
+46,6471025,RS Pertamina Balikpapan,RSU,C,BUMN,166
+47,6471014,RS Umum Daerah Dr. Kanujoso Djatiwibowo,RSU,B,Pemprop,414
+48,6409036,RS Umum Daerah Ratu Aji Putri Botung,RSU,C,Pemkab,97
+49,6405011,RS Umum Daerah Dr. Abdul Rivai,RSU,C,Pemkab,153
+50,6404032,RS Umum Daerah Kudungga,RSU,B,Pemkab,162
+51,6403052,RS Umum Daerah Aji Batara Agung Dewa Sakti,RSU,C,Pemkab,90
+52,6402041,RS Umum Daerah Harapan Insan Sendawar,RSU,C,Pemkab,171
+53,6403015,RS Umum Daerah Aji Muhammad Parikesit,RSU,B,Pemkab,355
+54,6401014,RS Umum Daerah Panglima Sebaya,RSU,C,Pemkab,181
